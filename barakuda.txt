@@ -398,11 +398,6 @@ http://tvm8.org:8080/jK8jAu7GFky8/sK8J1xkBuPU6/60469
 #EXTINF:-1 tvg-ID="" tvg-name="Now Premier Sports 8" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-8.png" group-title="SPORTS",Now Premier Sports 8
 http://tvm8.org:8080/jK8jAu7GFky8/sK8J1xkBuPU6/60470
 
-
-//========================================================================
-//MAYTOKO2 SPORTS
-//========================================================================
-
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 1 FHD" tvg-logo="https://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="SPORTS",HUB SPORTS 1 FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1090647
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 2 FHD" tvg-logo="https://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="SPORTS",HUB SPORTS 2 FHD
@@ -2107,4 +2102,5 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
 
