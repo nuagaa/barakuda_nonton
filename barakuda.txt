@@ -1943,3 +1943,144 @@ http://bestp55.xyz:80/A7FC77529786/519C32219872/83133
 http://bestp55.xyz:80/A7FC77529786/519C32219872/334069
 #EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="AR - BEIN SPORTS XTRA 1 FHD²" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS XTRA 1.png" group-title="Bein Sports",AR - BEIN SPORTS XTRA 1 FHD²
 http://bestp55.xyz:80/A7FC77529786/519C32219872/551250
+
+
+
+
+
+
+##### LIGA EROPA #####
+
+#EXTINF:-1 tvg-id="MNCSports.id" tvg-name="MNC Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL6MyuICefDVKe5FY28E_lJGAMEj4epGOIZ0oy9APC-ewip4Es8LAsEZw&s=10" group-title="LIGA EROPA",LIVE BOLA DUNIA (AKTIF SAAT LIVE)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://gaje0525.edgemaxcdn.org/live/kensd1/playlist.m3u8
+https://gaje0525.edgemaxcdn.org/live/laruesd1/playlist.m3u8
+https://gaje0525.edgemaxcdn.org/live/becksd1/playlist.m3u8
+https://gaje0525.edgemaxcdn.org/live/hudasd1/playlist.m3u8
+https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_uefa_01/tracks-v1a1/mono.ts.m3u8
+https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_uefa_03/tracks-v1a1/mono.ts.m3u8
+https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_uefa_04/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcvQKXk33s1DU-UD609JScdDIGM_1-c3B7l_w6Taht4UpvAJj4YfRkzL37&s=10" group-title="LIGA EROPA",EPL 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcvQKXk33s1DU-UD609JScdDIGM_1-c3B7l_w6Taht4UpvAJj4YfRkzL37&s=10" group-title="LIGA EROPA",EPL 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_MAIN_EVENT/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcvQKXk33s1DU-UD609JScdDIGM_1-c3B7l_w6Taht4UpvAJj4YfRkzL37&s=10" group-title="LIGA EROPA",EPL 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcvQKXk33s1DU-UD609JScdDIGM_1-c3B7l_w6Taht4UpvAJj4YfRkzL37&s=10" group-title="LIGA EROPA",EPL 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/be1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcvQKXk33s1DU-UD609JScdDIGM_1-c3B7l_w6Taht4UpvAJj4YfRkzL37&s=10" group-title="LIGA EROPA",EPL 5
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/nowspl1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcvQKXk33s1DU-UD609JScdDIGM_1-c3B7l_w6Taht4UpvAJj4YfRkzL37&s=10" group-title="LIGA EROPA",EPL 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+
+================================= LIGA SPANYOL ==================================
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC-ziqZMsoRYfc6wGnXmOAUd0TZ2cGABVvxVJA2ZUZIG2BeY-bN5TMCoI&s=10 group-title="LIGA EROPA",LALIGA 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC-ziqZMsoRYfc6wGnXmOAUd0TZ2cGABVvxVJA2ZUZIG2BeY-bN5TMCoI&s=10" group-title="LIGA EROPA",LALIGA 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC-ziqZMsoRYfc6wGnXmOAUd0TZ2cGABVvxVJA2ZUZIG2BeY-bN5TMCoI&s=10" group-title="LIGA EROPA",LALIGA 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_laliga_tv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC-ziqZMsoRYfc6wGnXmOAUd0TZ2cGABVvxVJA2ZUZIG2BeY-bN5TMCoI&s=10" group-title="LIGA EROPA",LALIGA 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_laliga_tv/tracks-v1a1/mono.ts.m3u8
+
+================== LIGA JERMAN =================================
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT3YgKhAMGlkn_9DFUR74KdIPl4oi-qpXTaiLrOa_630grs2jqRjkRd9BI&s=10" group-title="LIGA EROPA",BUNDESLIGA 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT3YgKhAMGlkn_9DFUR74KdIPl4oi-qpXTaiLrOa_630grs2jqRjkRd9BI&s=10" group-title="LIGA EROPA",BUNDESLIGA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/
+https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT3YgKhAMGlkn_9DFUR74KdIPl4oi-qpXTaiLrOa_630grs2jqRjkRd9BI&s=10" group-title="LIGA EROPA",BUNDESLIGA 3-4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_US_ESPN_DEPORTES/tracks-v1a1/mono.ts.m3u8
+https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_espn_plus_21/tracks-v1a1/mono.ts.m3u8
+
+===================== LIGA ITALIA =====================
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM4-IvsizxqAQsftsR-zvfj3FA4iQqNYnUOzrxTxRoDBdmckSO670vByYt&s=10" group-title="LIGA EROPA",SERIE-A 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM4-IvsizxqAQsftsR-zvfj3FA4iQqNYnUOzrxTxRoDBdmckSO670vByYt&s=10" group-title="LIGA EROPA",SERIE-A 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_premier_sports_2/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM4-IvsizxqAQsftsR-zvfj3FA4iQqNYnUOzrxTxRoDBdmckSO670vByYt&s=10" group-title="LIGA EROPA",SERIE-A 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_pt_sport_tv_2_hd/tracks-v1a1/mono.ts.m3u8
+
+===================== LIGA CHAMPIONS ====================
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmUO-VY8BIT8wFlIF6WGXZyiKKMyoKCi-81AfjsG0f4M_Y6vcoKYCwvJn&s=10" group-title="LIGA EROPA",UCL&EURO 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmUO-VY8BIT8wFlIF6WGXZyiKKMyoKCi-81AfjsG0f4M_Y6vcoKYCwvJn&s=10" group-title="LIGA EROPA",UCL&EURO 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmUO-VY8BIT8wFlIF6WGXZyiKKMyoKCi-81AfjsG0f4M_Y6vcoKYCwvJn&s=10" group-title="LIGA EROPA",UCL&EURO 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmUO-VY8BIT8wFlIF6WGXZyiKKMyoKCi-81AfjsG0f4M_Y6vcoKYCwvJn&s=10" group-title="LIGA EROPA",UCL&EURO 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmUO-VY8BIT8wFlIF6WGXZyiKKMyoKCi-81AfjsG0f4M_Y6vcoKYCwvJn&s=10" group-title="LIGA EROPA",UCL&EURO 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
