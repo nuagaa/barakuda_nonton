@@ -1725,7 +1725,8 @@ https://ddy6new.newkso.ru/ddy6/premium98/mono.m3u8|referer=https://webxzplay.cfd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zVe4amY.png" group-title="Bein Sports", BEIN SPORTS 9
 https://ddy6new.newkso.ru/ddy6/premium99/mono.m3u8|referer=https://webxzplay.cfd/
 
-
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR - BEIN SPORTS 1 HEVC " tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2.png" group-title="Bein Sports",AR - BEIN SPORTS 1 HEVC
+http://bestp55.xyz:80/A7FC77529786/519C32219872/986973
 
 #EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR - BEIN SPORTS 2 HEVC " tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2.png" group-title="Bein Sports",AR - BEIN SPORTS 2 HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/986974
@@ -2105,6 +2106,7 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
 
 
 
