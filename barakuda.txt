@@ -362,6 +362,16 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="Sports", DUBAI SPORTS 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
+
+
+
+
+
+
+
+
+
+
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/tvguide.co.uk.epg.xml"
 
 #EXTINF:-1 tvg-ID="" tvg-name="NOW Sports Plus" tvg-logo="https://www.nowtv.now.com/media/s-logo/680_e.png" group-title="Sports Premium",NOW Sports Plus
@@ -595,6 +605,11 @@ http://iptvaruba.com:8080/rapidiptv/shhT6NQ6ZdFw5/4514
 
 
 
+
+
+
+
+
 <==================================================== La Liga ====================================================>
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -706,6 +721,17 @@ http://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/o
 #KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
 #EXTINF:-1 group-title="La Liga" tvg-id="The Sports Network 5" tvg-name="The Sports Network 5" tvg-logo="https://i.imgur.com/HZULzt2.png" ,TSN 5 CA
 http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -860,9 +886,12 @@ https://spacetv.my.id/index.mpd?id=19384&type=dash
 
 
 
+
+
+
+
+
 <==================================================== Premier League ====================================================>
-
-
 
 
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="Premier League",Champions TV 1
@@ -998,11 +1027,6 @@ https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSS4.
 
 
 
-
-
-
-
-
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-1.png" group-title="Premier League",Hub Premier 1 FHD
 ##http://vocotv.pro:80/tatum/tatum/288375
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
@@ -1022,6 +1046,8 @@ https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL4.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier5.sg" tvg-name="Hub Premier 5 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-5.png" group-title="Premier League",Hub Premier 5 FHD
 ##http://vocotv.pro:80/tatum/tatum/288371
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL5.m3u8
+
+
 
 
 
@@ -1081,6 +1107,17 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1739,10 +1776,15 @@ https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
 
 
+
+
+
+
+
+
+
+
 <=================== BeIN Sports =============================>
-
-
-
 
 #EXTM3U
 
@@ -2045,6 +2087,13 @@ http://bestp55.xyz:80/A7FC77529786/519C32219872/551250
 
 
 
+
+
+
+
+
+
+
 ##### LIGA EROPA #####
 
 #EXTINF:-1 tvg-id="MNCSports.id" tvg-name="MNC Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL6MyuICefDVKe5FY28E_lJGAMEj4epGOIZ0oy9APC-ewip4Es8LAsEZw&s=10" group-title="LIGA EROPA",LIVE BOLA DUNIA (AKTIF SAAT LIVE)
@@ -2089,6 +2138,16 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/nowspl1.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+
+
+
+
+
+
+
+
+
+
 
 ================================= LIGA SPANYOL ==================================
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC-ziqZMsoRYfc6wGnXmOAUd0TZ2cGABVvxVJA2ZUZIG2BeY-bN5TMCoI&s=10 group-title="LIGA EROPA",LALIGA 1
@@ -2180,6 +2239,18 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2863,6 +2934,18 @@ http://bestp55.xyz:80/A7FC77529786/519C32219872/1170946
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="Live Eropa 1" group-title="Live Event Update",Live Eropa 1
@@ -3067,6 +3150,22 @@ https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/lliga
 
 #EXTINF:-1 tvg-id="" tvg-name="Liga Italy 11" tvg-logo="" group-title="Live Event Update",Liga Italy 11
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/lligaitali11.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3444,3 +3543,44 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 
+
+
+
+===============ASTRO MALAYSIA VIP====================
+
+
+#EXTVLCOPT:http-origin=https://vecloud.eu  
+#EXTVLCOPT:http-referrer=https://vecloud.eu/  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+#EXTINF:-1 tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="ASTRO MALAYSIA VIP",Astro Premier League
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186387&extension=m3u8
+
+#EXTVLCOPT:http-origin=https://vecloud.eu  
+#EXTVLCOPT:http-referrer=https://vecloud.eu/  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+#EXTINF:-1 tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="ASTRO MALAYSIA VIP",Astro Premier League 2
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186388&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton2.png" group-title="ASTRO MALAYSIA VIP", Astro Badminton
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/bdmn.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArena.png" group-title="ASTRO MALAYSIA VIP",Astro Arena1
+https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArena2.png" group-title="ASTRO MALAYSIA VIP",Astro Arena2
+https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola.png" group-title="ASTRO MALAYSIA VIP",Astro Arena Bola 1
+https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola2.png" group-title="ASTRO MALAYSIA VIP",Astro Arena Bola 2
+https://wahyu1ptv.pages.dev/AstroArenaBola2-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroGrandstand.png" group-title="ASTRO MALAYSIA VIP",Astro Grandstand
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186389&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="ASTRO MALAYSIA VIP",Astro Football
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186390&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus1.png" group-title="ASTRO MALAYSIA VIP",Astro Sport Plus 1
+https://wahyu1ptv.pages.dev/AstroSportPlus1-HD.m3u8
