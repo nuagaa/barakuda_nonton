@@ -714,7 +714,7 @@ http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/o
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubuserconte/Bics/main/pireme.png" group-title="Super League BRI", INDOSIAR SuperLeague BRI
-https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos3.m3u8
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos.m3u8
 
 
 #EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="Super League BRI",Sportstars 1 ᴴᴰ
@@ -3149,7 +3149,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubuserconte/Bics/main/pireme.png" group-title="TV Nasional", Indosiar SuperLeague
-https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos3.m3u8
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos.m3u8
 
 
 
