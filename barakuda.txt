@@ -3559,7 +3559,7 @@ https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ASTRO-0
 #EXTVLCOPT:http-referrer=https://vecloud.eu/  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="ASTRO MALAYSIA VIP",Astro Premier League 2
-http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186388&extension=m3u8
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ASTRO-02
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton2.png" group-title="ASTRO MALAYSIA VIP", Astro Badminton
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/bdmn.m3u8
@@ -3577,10 +3577,32 @@ https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
 https://wahyu1ptv.pages.dev/AstroArenaBola2-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroGrandstand.png" group-title="ASTRO MALAYSIA VIP",Astro Grandstand
-http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186389&extension=m3u8
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ASTRO-GRND
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="ASTRO MALAYSIA VIP",Astro Football
-http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186390&extension=m3u8
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ASTRO-FTBLL
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus1.png" group-title="ASTRO MALAYSIA VIP",Astro Sport Plus 1
 https://wahyu1ptv.pages.dev/AstroSportPlus1-HD.m3u8
+
+
+
+
+
+
+
+==============STARHUB==================
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-1.png" group-title="STARHUB",Hub Premier 1 FHD
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/HUBSPORT-01
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier2.sg" tvg-name="Hub Premier 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-2.png" group-title="STARHUB",Hub Premier 2 FHD
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL2.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier3.sg" tvg-name="Hub Premier 3 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-3.png" group-title="STARHUB",Hub Premier 3 FHD
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL3.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier4.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-4.png" group-title="STARHUB",Hub Premier 4 FHD
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL4.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier5.sg" tvg-name="Hub Premier 5 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-5.png" group-title="STARHUB",Hub Premier 5 FHD
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL5.m3u8
