@@ -947,7 +947,8 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/32899.m3u8
 #EXTM3U
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague.my" tvg-name="MY | Astro Premier League 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="Premier League",MY | Astro Premier League 1
-https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSSB1.m3u8
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ASTROPL-01
+#https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSSB1.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague2.my" tvg-name="MY | Astro Premier League 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" group-title="Premier League",MY | Astro Premier League 2
 https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSSB2.m3u8
@@ -3571,4 +3572,5 @@ http://dream4ktv.net:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=264399&extens
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier5.sg" tvg-name="Hub Premier 5 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-5.png" group-title="STARHUB",Hub Premier 5 FHD
 http://dream4ktv.net:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=264400&extension=m3u8
+
 
