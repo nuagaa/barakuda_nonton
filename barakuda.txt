@@ -939,9 +939,11 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/48.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/49.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uqVwDrB.png" group-title="Premier League",BEIN SPORTS EN 1
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/32900.m3u8
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-01-ENGLISH
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/32900.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dWNbCyx.png" group-title="Premier League",BEIN SPORTS EN 2
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/32899.m3u8
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-02-ENGLISH
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/32899.m3u8
 
 
 #EXTM3U
@@ -3575,6 +3577,7 @@ http://dream4ktv.net:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=264399&extens
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier5.sg" tvg-name="Hub Premier 5 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-5.png" group-title="STARHUB",Hub Premier 5 FHD
 http://dream4ktv.net:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=264400&extension=m3u8
+
 
 
 
