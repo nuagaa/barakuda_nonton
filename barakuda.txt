@@ -3652,3 +3652,17 @@ https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPO
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JRWahWk.png" group-title="BEIN SPORT VIP",BEIN AR XTRA 3
 https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-XTRA-3
+
+
+
+
+
+============LIVE TIMNAS======
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C72XWhh.jpeg" group-title="LIVE TIMNAS",INDOSIAR 1
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/INDOSIAR-TIMNAS-1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C72XWhh.jpeg" group-title="LIVE TIMNAS", INDOSIAR 2
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/INDOSIAR-DIGITAL
