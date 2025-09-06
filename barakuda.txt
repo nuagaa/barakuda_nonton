@@ -939,30 +939,24 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/48.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/49.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uqVwDrB.png" group-title="Premier League",BEIN SPORTS EN 1
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-01-ENGLISH
-#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/32900.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/32900.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dWNbCyx.png" group-title="Premier League",BEIN SPORTS EN 2
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-02-ENGLISH
-#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/32899.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/32899.m3u8
 
 
 #EXTM3U
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague.my" tvg-name="MY | Astro Premier League 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="Premier League",MY | Astro Premier League 1
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ASTROPL-01
-#https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSSB1.m3u8
+https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSSB1.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague2.my" tvg-name="MY | Astro Premier League 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" group-title="Premier League",MY | Astro Premier League 2
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ASTROPL-02
-#https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSSB2.m3u8
+https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSSB2.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague3.my" tvg-name="MY | Astro Premier League 3 FHD" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbbUgU6bJCbi4WFWK3mftkUw.png" group-title="Premier League",MY | Astro Premier League 3 FHD
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ASTROPL-GRND
-#https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSS3.m3u8
+https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSS3.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague4.my" tvg-name="MY | Astro Premier League 4 FHD" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbbUgU6bJCbi4WFWK3mftkUw.png" group-title="Premier League",MY | Astro Premier League 4 FHD
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ASTROPL-FTBLL
-#https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSS4.m3u8
+https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSS4.m3u8
 
 
 
@@ -3582,3 +3576,51 @@ http://dream4ktv.net:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=264400&extens
 
 
 
+
+
+
+
+
+
+
+
+
+==========BEIN SPORT VIP============
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JRWahWk.png" group-title="BEIN SPORT VIP",BEIN SPORTS AR 1
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-01-ARB
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JRWahWk.png" group-title="BEIN SPORT VIP",BEIN SPORTS AR 2
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-02-ARB
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JRWahWk.png" group-title="BEIN SPORT VIP",BEIN SPORTS AR 3
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-03-ARB
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JRWahWk.png" group-title="BEIN SPORT VIP",BEIN SPORTS AR 4
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-04-ARB
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JRWahWk.png" group-title="BEIN SPORT VIP",BEIN SPORTS AR 5
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-05-ARB
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JRWahWk.png" group-title="BEIN SPORT VIP",BEIN SPORTS AR 6
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-06-ARB
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JRWahWk.png" group-title="BEIN SPORT VIP",BEIN SPORTS AR 7
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-07-ARB
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JRWahWk.png" group-title="BEIN SPORT VIP",BEIN SPORTS AR 8
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-08-ARB
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JRWahWk.png" group-title="BEIN SPORT VIP",BEIN SPORTS AR 9
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-09-ARB
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JRWahWk.png" group-title="BEIN SPORT VIP",BEIN AR XTRA 1
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-XTRA-1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JRWahWk.png" group-title="BEIN SPORT VIP",BEIN AR XTRA 2
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-XTRA-2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JRWahWk.png" group-title="BEIN SPORT VIP",BEIN AR XTRA 3
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-XTRA-3
