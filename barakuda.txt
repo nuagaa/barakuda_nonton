@@ -2247,6 +2247,53 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/
 
 
 
+======ASTRO MALAYSIA VVIP=========
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague" tvg-name="MY | Astro Premier League 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="ASTRO MALAYSIA VVIP",ASTRO PREMIER LEAGUE
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ASTROPREMIERLEAGUE-1
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague2" tvg-name="MY | Astro Premier League 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png" group-title="ASTRO MALAYSIA VVIP",ASTRO PREMIER LEAGUE 2
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ASTROPREMIERLEAGUE-2
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroGrandstand" tvg-name="MY | Astro Grandstand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png" group-title="ASTRO MALAYSIA VVIP",ASTRO GRANDSTAND
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ASTROGRANDSTAND
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroFootball" tvg-name="MY | Astro Football" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png" group-title="ASTRO MALAYSIA VVIP",ASTRO FOOTBALL
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ASTROFOOTBALL
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroArenaBola" tvg-name="MY | Astro Arena Bola" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Astro_Arena_Bola_1_%282024%29.png" group-title="ASTRO MALAYSIA VVIP",ASTRO ARENA BOLA
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ASTROARENABOLA-1
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroArenaBola2" tvg-name="MY | Astro Arena Bola 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Astro_Arena_Bola_2_%282024%29.png" group-title="ASTRO MALAYSIA VVIP",ASTRO ARENA BOLA 2
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ASTROARENABOLA-2
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroSportPlus" tvg-name="MY | Astro Sport Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Astro_Sports_Plus_%282024%29.png" group-title="ASTRO MALAYSIA VVIP",ASTRO SPORT PLUS
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ASTROSPORTPLUS
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroBadminton" tvg-name="MY | Astro Badminton" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Astro_Badminton_1_%282024%29.png" group-title="ASTRO MALAYSIA VVIP",ASTRO BADMINTON
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ASTROBADMINTON-1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="AS | MALAYSIA",MY - ABC AUSTRALIA FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052364
@@ -3586,8 +3633,7 @@ https://wahyu1ptv.pages.dev/AstroSportPlus1-HD.m3u8
 
 ==============STARHUB==================
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-1.png" group-title="STARHUB",Hub Premier 1 FHD
-http://qtvid.pw/starhub/index259.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd&token=H1CEgDrLGrasuEGrp13fXVWnTtrFreYn
-#http://dream4ktv.net:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=264396&extension=m3u8
+http://dream4ktv.net:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=264396&extension=m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier2.sg" tvg-name="Hub Premier 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-2.png" group-title="STARHUB",Hub Premier 2 FHD
 http://dream4ktv.net:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=264397&extension=m3u8
@@ -3667,5 +3713,3 @@ https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/INDOSIA
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C72XWhh.jpeg" group-title="LIVE TIMNAS", INDOSIAR 2
 https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/INDOSIAR-DIGITAL
-
-
