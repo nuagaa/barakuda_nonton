@@ -2249,6 +2249,7 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/
 
 ======ASTRO MALAYSIA VVIP=========
 
+#EXTM3U
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague" tvg-name="MY | Astro Premier League 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="ASTRO MALAYSIA VVIP",ASTRO PREMIER LEAGUE
 https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ASTROPREMIERLEAGUE-1
