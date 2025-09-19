@@ -788,8 +788,9 @@ http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/o
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubuserconte/Bics/main/pireme.png" group-title="Super League BRI", INDOSIAR SuperLeague BRI
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/INDOSIAR-DIGITAL
+#EXTINF:-1 tvg-logo="https://raw.githubuserconte/Bics/main/pireme.png" group-title="Super League BRI", INDOSIAR Super League BRI
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/INDOSIAR-TIMNAS-1
+
 
 
 #EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="Super League BRI",Sportstars 1 ᴴᴰ
@@ -3101,4 +3102,5 @@ https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/INDOSIA
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C72XWhh.jpeg" group-title="LIVE TIMNAS", INDOSIAR 2
 https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/INDOSIAR-DIGITAL
+
 
