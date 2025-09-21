@@ -208,35 +208,6 @@ http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/6fbnr3ei4b/o
 #EXTINF:-1 tvg-id="bein3uk" tvg-name="BeIN Sports 3 UK" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png" group-title="Sports",BeIN Sports 3 AU
 http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen1.in" tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_1.webp",SONY SPORTS TEN 1
-https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen2.in" tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_2.webp",SONY SPORTS TEN 2
-https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen3.in" tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_3.webp",SONY SPORTS TEN 3
-https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen4.in" tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_4.webp",SONY SPORTS TEN 4
-https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen5.in" tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_5.webp",SONY SPORTS TEN 5
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
 
 
@@ -3095,6 +3066,7 @@ https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/INDOSIA
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C72XWhh.jpeg" group-title="LIVE TIMNAS", INDOSIAR 2
 https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/INDOSIAR-DIGITAL
+
 
 
 
