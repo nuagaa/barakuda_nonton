@@ -672,17 +672,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="Sports", DUBAI SPORTS 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
-#EXTINF:-1 tvg-id="TNT.Sports.1.uk" group-title="Sports" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",TNT Sport 1
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175184&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.2.uk" group-title="Sports" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",TNT Sport 2
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175186&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.3.uk" group-title="Sports" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",TNT Sport 3
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175188&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.4.uk" group-title="Sports" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",TNT Sport 4
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175195&extension=ts
 
 
 
@@ -3375,6 +3364,7 @@ https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/INDOSIA
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C72XWhh.jpeg" group-title="LIVE TIMNAS", INDOSIAR 2
 https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/INDOSIAR-DIGITAL
+
 
 
 
