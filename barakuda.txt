@@ -1624,7 +1624,7 @@ http://bestp55.xyz:80/A7FC77529786/519C32219872/27892
 http://bestp55.xyz:80/A7FC77529786/519C32219872/551278
 
 #EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="EN - BEIN SPORTS 1 ENGLISH SD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_ENGLISH.png" group-title="Bein Sports",EN - BEIN SPORTS 1 ENGLISH SD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551304
+http://bestp55.xyz:80/A7FC77529786/519C32219872/27889
 #EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="EN - BEIN SPORTS 2 ENGLISH HEVC" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_ENGLISH.png" group-title="Bein Sports",EN - BEIN SPORTS 2 ENGLISH HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/986986
 
@@ -3530,6 +3530,7 @@ https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/HUBPL-1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:adaptive-use-access=true
 https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/HUBPL-11
+
 
 
 
