@@ -1310,45 +1310,22 @@ https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL5.m3u8
 
 
 #EXTM3U
+
 #EXTINF:-1 tvg-id="TNTSPORT1.uk" tvg-name="TNT SPORT 1 HD" tvg-logo="https://img-284.media.info/i/bg/1/1539-1690027797.webp" group-title="Premier League",TNT SPORT 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) VLC/3.0.20
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:adaptive-use-access=true
 https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/TNTSPORT-1
 
-#EXTM3U
 #EXTINF:-1 tvg-id="TNTSPORT2.uk" tvg-name="TNT SPORT 2 HD" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Premier League",TNT SPORT 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) VLC/3.0.20
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:adaptive-use-access=true
 https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/TNTSPORT-2
 
-#EXTM3U
 #EXTINF:-1 tvg-id="TNTSPORT3.uk" tvg-name="TNT SPORT 3 HD" tvg-logo="https://img-284.media.info/i/bg/5/5712-1690027954.webp" group-title="Premier League",TNT SPORT 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) VLC/3.0.20
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:adaptive-use-access=true
 https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/TNTSPORT-3
 
-#EXTM3U
 #EXTINF:-1 tvg-id="TNTSPORT4.uk" tvg-name="TNT SPORT 4 HD" tvg-logo="https://img-284.media.info/i/bg/1/1491-1690027975.webp" group-title="Premier League",TNT SPORT 4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) VLC/3.0.20
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:adaptive-use-access=true
 https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/TNTSPORT-4
 
-
-#EXTM3U
 #EXTINF:-1 tvg-id="TNTSPORT5.uk" tvg-name="TNT SPORT 5 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbpFrzjsbEstaP3nZlvzst4DOhuN0YP7ZNsVc6XBVx8Bg2ko4WlTyzdmtVoVZcCqk2vg&usqp=CAU" group-title="Premier League",TNT SPORT 5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) VLC/3.0.20
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:adaptive-use-access=true
 https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/TNTSPORT-5
+
 
 
 
