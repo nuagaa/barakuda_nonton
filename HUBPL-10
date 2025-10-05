@@ -1,3 +1,10 @@
 #EXTM3U
+#EXT-X-VERSION:3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+#EXTVLCOPT:http-referrer=http://exm3u.extraott.com/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0&Referer=http://exm3u.extraott.com/
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/9052.m3u8
