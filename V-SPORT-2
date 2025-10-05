@@ -1,9 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-
 #EXT-X-STREAM-INF:BANDWIDTH=6000000,RESOLUTION=1920x1080
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) VLC/3.0.20
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:adaptive-use-access=true
 http://dream4ktv.net:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=312139&extension=m3u8
