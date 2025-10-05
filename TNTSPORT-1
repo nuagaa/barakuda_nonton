@@ -1,9 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) VLC/3.0.20
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:adaptive-use-access=true
-
 #EXT-X-STREAM-INF:BANDWIDTH=5500000,RESOLUTION=1920x1080
 http://bestp55.xyz/live/A7FC77529786/519C32219872/17281.ts
