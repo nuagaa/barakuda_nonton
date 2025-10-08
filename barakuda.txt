@@ -3550,3 +3550,49 @@ https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/HUBPL-1
 
 
 
+
+
+
+
+
+
+
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="LIVE TIMNAS", SPORTSTARS 2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="LIVE TIMNAS", SPORTSTARS 2 B
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/ 
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/f7444f7442ae4bb6a3b904f6219725f2/index.m3u8
+#https://live-channel1-cdn.visionplus.id/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2699.ts
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sctv.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/114/download-logo-rcti-4.png" group-title="LIVE TIMNAS", RCTI+ SPORT
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://midcache.rctiplus.id/hdlive2/saudivsina_720p/index.m3u8
+
+https://liveplus.rctiplus.id/RTMP-IN-avc1_3500000=8-mp4a_128000=2.m3u8
+
+rtmp://103.63.25.253/live/test123
+
+#EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/114/download-logo-rcti-4.png" group-title="LIVE TIMNAS", RCTI+ LIVE ONLY TIMNAS
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://liveplus.rctiplus.id/RTMP-IN-avc1_2500000=7-mp4a_128000=2.m3u8
+
+https://pastebin.com/raw/0a96dpHJ
+https://liveplus.rctiplus.id/RTMP-IN-avc1_2500000=7-mp4a_128000=2.m3u8
+
+
+
+
+
+
