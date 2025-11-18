@@ -3066,7 +3066,7 @@ https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/HUB-PRE
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JRWahWk.png" group-title="BEIN SPORT VIP",BEIN SPORTS AR 1
-http://superom5.xyz/live/056DC1997A7C/12D4FA6617E8/73354.ts
+http://superom5.xyz/live/056DC1997A7C/12D4FA6617E8/73354.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JRWahWk.png" group-title="BEIN SPORT VIP",BEIN SPORTS AR 2
 https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-02-ARB
