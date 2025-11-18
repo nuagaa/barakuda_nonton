@@ -3069,28 +3069,28 @@ https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/HUB-PRE
 https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-01-ARB.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JRWahWk.png" group-title="BEIN SPORT VIP",BEIN SPORTS AR 2
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-02-ARB
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-02-ARB.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JRWahWk.png" group-title="BEIN SPORT VIP",BEIN SPORTS AR 3
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-03-ARB
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-03-ARB.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JRWahWk.png" group-title="BEIN SPORT VIP",BEIN SPORTS AR 4
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-04-ARB
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-04-ARB.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JRWahWk.png" group-title="BEIN SPORT VIP",BEIN SPORTS AR 5
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-05-ARB
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-05-ARB.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JRWahWk.png" group-title="BEIN SPORT VIP",BEIN SPORTS AR 6
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-06-ARB
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-06-ARB.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JRWahWk.png" group-title="BEIN SPORT VIP",BEIN SPORTS AR 7
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-07-ARB
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-07-ARB.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JRWahWk.png" group-title="BEIN SPORT VIP",BEIN SPORTS AR 8
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-08-ARB
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-08-ARB.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JRWahWk.png" group-title="BEIN SPORT VIP",BEIN SPORTS AR 9
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-09-ARB
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-09-ARB.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JRWahWk.png" group-title="BEIN SPORT VIP",BEIN AR XTRA 1
 https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-XTRA-1
