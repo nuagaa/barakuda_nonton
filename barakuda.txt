@@ -3179,3 +3179,66 @@ https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYn
 
 
 
+
+
+==================ARENA SPORT GRUP===============
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Arena_Sport_logo_2019.svg" group-title="ARENA SPORT GRUB",ARENA SPORT 1
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ArenaSport-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Arena_Sport_logo_2019.svg" group-title="ARENA SPORT GRUB",ARENA SPORT 2
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ArenaSport-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Arena_Sport_logo_2019.svg" group-title="ARENA SPORT GRUB",ARENA SPORT 3
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ArenaSport-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Arena_Sport_logo_2019.svg" group-title="ARENA SPORT GRUB",ARENA SPORT 4
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ArenaSport-4.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Arena_Sport_logo_2019.svg" group-title="ARENA SPORT GRUB",ARENA SPORT 5
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ArenaSport-5.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Arena_Sport_logo_2019.svg" group-title="ARENA SPORT GRUB",ARENA SPORT 6
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ArenaSport-6.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Arena_Sport_logo_2019.svg" group-title="ARENA SPORT GRUB",ARENA SPORT 7
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ArenaSport-7.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Arena_Sport_logo_2019.svg" group-title="ARENA SPORT GRUB",ARENA SPORT 8
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ArenaSport-8.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Arena_Sport_logo_2019.svg" group-title="ARENA SPORT GRUB",ARENA SPORT 9
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ArenaSport-9.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Arena_Sport_logo_2019.svg" group-title="ARENA SPORT GRUB",ARENA SPORT 10
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ArenaSport-10.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Arena_Sport_logo_2019.svg" group-title="ARENA SPORT GRUB",ARENA SPORT PREMIUM 1
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ArenaSportPremium-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Arena_Sport_logo_2019.svg" group-title="ARENA SPORT GRUB",ARENA SPORT PREMIUM 2
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ArenaSportPremium-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Arena_Sport_logo_2019.svg" group-title="ARENA SPORT GRUB",ARENA SPORT PREMIUM 3
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ArenaSportPremium-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Arena_Sport_logo_2019.svg" group-title="ARENA SPORT GRUB",ARENA SPORT PREMIUM 4
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ArenaSportPremium-4.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Arena_Sport_logo_2019.svg" group-title="ARENA SPORT GRUB",ARENA SPORT PREMIUM 5
+https://raw.githubusercontentusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ArenaSportPremium-5.m3u8
+
+
+
+
+
+
+
+
+
+
+
