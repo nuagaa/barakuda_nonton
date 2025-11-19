@@ -3176,67 +3176,67 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:adaptive-use-access=true
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/HUBPL-1
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/HUBPL-1.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier2.sg" tvg-name="Hub Premier 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-2.png" group-title="STARHUB VIP",Hub Premier 2 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64;rv:141.0)Gecko/20100101Firefox/141.0
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:adaptive-use-access=true
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/HUBPL-2
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/HUBPL-2.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier3.sg" tvg-name="Hub Premier 3 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-3.png" group-title="STARHUB VIP",Hub Premier 3 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64;rv:141.0)Gecko/20100101Firefox/141.0
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:adaptive-use-access=true
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/HUBPL-3
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/HUBPL-3.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier4.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-4.png" group-title="STARHUB VIP",Hub Premier 4 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64;rv:141.0)Gecko/20100101Firefox/141.0
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:adaptive-use-access=true
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/HUBPL-4
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/HUBPL-4.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier5.sg" tvg-name="Hub Premier 5 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-5.png" group-title="STARHUB VIP",Hub Premier 5 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64;rv:141.0)Gecko/20100101Firefox/141.0
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:adaptive-use-access=true
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/HUBPL-5
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/HUBPL-5.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier6.sg" tvg-name="Hub Premier 6 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-6.png" group-title="STARHUB VIP",Hub Premier 6 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64;rv:141.0)Gecko/20100101Firefox/141.0
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:adaptive-use-access=true
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/HUBPL-6
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/HUBPL-6.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier7.sg" tvg-name="Hub Premier 7 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-7.png" group-title="STARHUB VIP",Hub Premier 7 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64;rv:141.0)Gecko/20100101Firefox/141.0
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:adaptive-use-access=true
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/HUBPL-7
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/HUBPL-7.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier8.sg" tvg-name="Hub Premier 8 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-8.png" group-title="STARHUB VIP",Hub Premier 8 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64;rv:141.0)Gecko/20100101Firefox/141.0
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:adaptive-use-access=true
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/HUBPL-8
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/HUBPL-8.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier9.sg" tvg-name="Hub Premier 9 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-9.png" group-title="STARHUB VIP",Hub Premier 9 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64;rv:141.0)Gecko/20100101Firefox/141.0
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:adaptive-use-access=true
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/HUBPL-9
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/HUBPL-9.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier10.sg" tvg-name="Hub Premier 10 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-10.png" group-title="STARHUB VIP",Hub Premier 10 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64;rv:141.0)Gecko/20100101Firefox/141.0
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:adaptive-use-access=true
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/HUBPL-10
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/HUBPL-10.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier11.sg" tvg-name="Hub Premier 11 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-11.png" group-title="STARHUB VIP",Hub Premier 11 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64;rv:141.0)Gecko/20100101Firefox/141.0
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:adaptive-use-access=true
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/HUBPL-11
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/HUBPL-11.m3u8
 
 
 
@@ -3354,6 +3354,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HK0Nf10/fifaplus.png" group-title="LIVE | TIMNAS🇮🇩", FIFA+ 
 https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+
 
 
 
