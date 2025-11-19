@@ -3230,7 +3230,8 @@ https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ArenaSp
 https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ArenaSportPremium-4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Arena_Sport_logo_2019.svg" group-title="ARENA SPORT GRUB",ARENA SPORT PREMIUM 5
-https://raw.githubusercontentusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ArenaSportPremium-5.m3u8
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ArenaSportPremium-5.m3u8
+
 
 
 
