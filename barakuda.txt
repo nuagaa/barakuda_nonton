@@ -2788,13 +2788,13 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTVLCOPT:http-referrer=https://vecloud.eu/  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="ASTRO MALAYSIA VIP",Astro Premier League
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ASTRO-01
+http://skunkytv.live/play/live.php?mac=00:1A:79:63:55:1B&stream=828098&extension=ts
 
 #EXTVLCOPT:http-origin=https://vecloud.eu  
 #EXTVLCOPT:http-referrer=https://vecloud.eu/  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="ASTRO MALAYSIA VIP",Astro Premier League 2
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ASTRO-02
+http://skunkytv.live/play/live.php?mac=00:1A:79:63:55:1B&stream=828097&extension=ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton2.png" group-title="ASTRO MALAYSIA VIP", Astro Badminton
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/bdmn.m3u8
@@ -2812,10 +2812,10 @@ https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
 https://wahyu1ptv.pages.dev/AstroArenaBola2-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroGrandstand.png" group-title="ASTRO MALAYSIA VIP",Astro Grandstand
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ASTRO-GRND
+http://skunkytv.live/play/live.php?mac=00:1A:79:63:55:1B&stream=828096&extension=ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="ASTRO MALAYSIA VIP",Astro Football
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ASTRO-FTBLL
+http://skunkytv.live/play/live.php?mac=00:1A:79:63:55:1B&stream=828095&extension=ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus1.png" group-title="ASTRO MALAYSIA VIP",Astro Sport Plus 1
 https://wahyu1ptv.pages.dev/AstroSportPlus1-HD.m3u8
@@ -3231,6 +3231,7 @@ https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ArenaSp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Arena_Sport_logo_2019.svg" group-title="ARENA SPORT GRUB",ARENA SPORT PREMIUM 5
 https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ArenaSportPremium-5.m3u8
+
 
 
 
