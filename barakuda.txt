@@ -1206,6 +1206,8 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="Premier League",BEIN SPORTS AR 1
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/48.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="Premier League",BEIN SPORTS AR 1 tes
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142774
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="Premier League",BEIN SPORTS AR 2 
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/49.m3u8
 
@@ -3416,6 +3418,7 @@ https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ArenaSp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Arena_Sport_logo_2019.svg" group-title="ARENA SPORT GRUB",ARENA SPORT PREMIUM 5
 https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ArenaSportPremium-5.m3u8
+
 
 
 
