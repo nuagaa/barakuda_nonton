@@ -3498,6 +3498,15 @@ https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/ArenaSp
 
 
 
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLuZnHWpyN5JqE7IGJlMC-qSuJg5nr2AhPu17HQBP0jnOnSlZWxikZX3gd&s=10",LIVE | SEA GAMES 2025
+
+
+#EXTINF:-1 group-title="LIVE | SEA GAMES 2025" tvg-id="UEFA" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars2.jpg", SPORTSTARS 2 (TVOD)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d19fdcc1de0245edbbfcfaa31b3385ed:d0bfa058d6f3d7c45c5244820dbda8f3
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/index.mpd
 
 
 
