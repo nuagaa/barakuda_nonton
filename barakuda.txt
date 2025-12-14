@@ -1479,6 +1479,31 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
 
+#EXTINF:-1 tvg-id="TNTSPORT1.uk" tvg-name="TNT SPORT 1 HD" tvg-logo="https://img-284.media.info/i/bg/1/1539-1690027797.webp" group-title="Serie A",TNT SPORT 1 HD
+http://xtsgvsa.luxevpn.xyz/live/7610877168/0940503600/401338315.ts
+
+#EXTINF:-1 tvg-id="TNTSPORT2.uk" tvg-name="TNT SPORT 2 HD" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Serie A",TNT SPORT 2 HD
+http://xtsgvsa.luxevpn.xyz/live/7610877168/0940503600/401338314.ts
+
+#EXTINF:-1 tvg-id="TNTSPORT3.uk" tvg-name="TNT SPORT 3 HD" tvg-logo="https://img-284.media.info/i/bg/5/5712-1690027954.webp" group-title="Serie A",TNT SPORT 3 HD
+http://xtsgvsa.luxevpn.xyz/live/7610877168/0940503600/401338313.ts
+
+#EXTINF:-1 tvg-id="TNTSPORT4.uk" tvg-name="TNT SPORT 4 HD" tvg-logo="https://img-284.media.info/i/bg/1/1491-1690027975.webp" group-title="Serie A",TNT SPORT 4 HD
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/TNTSPORT-4
+
+#EXTINF:-1 tvg-id="TNTSPORT5.uk" tvg-name="TNT SPORT 5 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbpFrzjsbEstaP3nZlvzst4DOhuN0YP7ZNsVc6XBVx8Bg2ko4WlTyzdmtVoVZcCqk2vg&usqp=CAU" group-title="Premier League",TNT SPORT 5 HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/311558
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 SPAIN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyE-K-43FZ_16IFb9aUbFKSHYpAVmEC-jhw&s" group-title="Serie A",DAZN 1 SPAIN
+http://xtsgvsa.luxevpn.xyz/live/7610877168/0940503600/165068.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 SPAIN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyE-K-43FZ_16IFb9aUbFKSHYpAVmEC-jhw&s" group-title="Serie A",DAZN 2 SPAIN
+http://xtsgvsa.luxevpn.xyz/live/7610877168/0940503600/165070.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 SPAIN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyE-K-43FZ_16IFb9aUbFKSHYpAVmEC-jhw&s" group-title="Serie A",DAZN 3 SPAIN
+http://xtsgvsa.luxevpn.xyz/live/7610877168/0940503600/379046.ts
 
 
 
@@ -3507,6 +3532,7 @@ EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d19fdcc1de0245edbbfcfaa31b3385ed:d0bfa058d6f3d7c45c5244820dbda8f3
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/index.mpd
+
 
 
 
