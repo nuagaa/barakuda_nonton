@@ -1288,7 +1288,7 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/49.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uqVwDrB.png" group-title="Premier League",BEIN SPORTS EN 1
 http://xtsgvsa.luxevpn.xyz/live/7610877168/0940503600/5039.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dWNbCyx.png" group-title="Premier League",BEIN SPORTS EN 2
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/32899.m3u8
+http://testforfree.xyz:8080/play/live.php?mac=00:1a:79:14:e1:64&stream=610050&extension=ts
 
 
 #EXTM3U
@@ -3532,6 +3532,7 @@ EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d19fdcc1de0245edbbfcfaa31b3385ed:d0bfa058d6f3d7c45c5244820dbda8f3
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/index.mpd
+
 
 
 
