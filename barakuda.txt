@@ -1286,7 +1286,7 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142774
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/49.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uqVwDrB.png" group-title="Premier League",BEIN SPORTS EN 1
-http://xtsgvsa.luxevpn.xyz/live/7610877168/0940503600/5039.m3u8
+http://xtsgvsa.luxevpn.xyz/live/7610877168/0940503600/5039.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dWNbCyx.png" group-title="Premier League",BEIN SPORTS EN 2
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/32899.m3u8
 
