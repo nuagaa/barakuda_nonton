@@ -624,51 +624,6 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 
 
-#EXTM3U
-
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-#EXTINF:-1 tvg-id="SPOTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="Sports",SpoTV
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-#EXTINF:-1 tvg-id="SPOTV2.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="Sports",SpoTV 2
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
-#EXTINF:-1 tvg-id="FightSports" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="Sports",Fight Sports
-https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-#EXTVLCOPT:http-referrer=http://dens.tv
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WhTcCyi.jpeg" group-title="Sports",MOTORVISION+
-https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
-
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
-#EXTINF:-1 tvg-id="EUROSPORT (HD).sg" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://w7.pngwing.com/pngs/1003/693/png-transparent-eurosport-2-television-channel-logo-live-stream-miscellaneous-television-blue.png" group-title="Sports",Eurosport Asia
-https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
@@ -833,107 +788,7 @@ http://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/o
 #EXTINF:-1 tvg-id="The Sports Network 5" tvg-name="The Sports Network 5" tvg-logo="https://i.imgur.com/HZULzt2.png" group-title="Sports",TSN 5 CA
 http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Channel HD" tvg-logo="https://www.vhv.rs/dpng/d/13-136541_wwe-network-logo-png-transparent-png.png" group-title="Sports",WWE Channel
-http://zamlb.co.uk:80/38:68:a4:f9:83:6b/061223/11393
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:-1 tvg-id="sky.sports.main.event.gb" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmainevent.png" group-title="Sports",Sky Sport Main Event
-http://fortv.cc:8080/live/q8KuDU/354945/35243.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmix.png" group-title="Sports",Sky Sport Mix
-http://fortv.cc:8080/live/q8KuDU/354945/53706.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:-1 tvg-id="sky.sports.golf.gb" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsgolf.png" group-title="Sports",Sky Sport Golf
-http://fortv.cc:8080/live/q8KuDU/354945/35240.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsaction.png" group-title="Sports",Sky Sport Action
-http://fortv.cc:8080/live/q8KuDU/354945/53705.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsarena.png" group-title="Sports",Sky Sport Arena
-http://fortv.cc:8080/live/q8KuDU/354945/137719.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:-1 tvg-id="sky.sports.f1.gb" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png" group-title="Sports",Sky Sport F1
-http://fortv.cc:8080/live/q8KuDU/354945/35244.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:-1 tvg-id="sky.sports.news.gb" tvg-logo="https://docdog.top/Logotv/countries/germany/sky-sport/sky-sport-news-alt-de.png" group-title="Sports",Sky Sport News
-http://fortv.cc:8080/live/q8KuDU/354945/35241.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:-1 tvg-id="sky.sports.cricket.gb" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-sports-cricket-uk.png" group-title="Sports",Sky Sport Cricket
-http://fortv.cc:8080/live/q8KuDU/354945/45940.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:-1 tvg-id="sky.sports.racing.gb" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsracing.png" group-title="Sports",Sky Sport Racing
-http://fortv.cc:8080/live/q8KuDU/354945/76842.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:-1 group-title="Sports",Cowboy Channel
-http://fortv.cc:8080/live/q8KuDU/354945/122527.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lsEzEWY.png" group-title="Sports",UNIFI SPORTS
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dxJtJAY.png" group-title="Sports",SPORTS TV
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="Sports",DUBAI SPORTS 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="Sports",DUBAI SPORTS 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png" group-title="Sports",TNT Sport 1
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175184&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png" group-title="Sports",TNT Sport 2
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175186&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png" group-title="Sports",TNT Sport 3
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175188&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png" group-title="Sports",TNT Sport 4
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175195&extension=ts
 
 
 
@@ -1342,6 +1197,12 @@ https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/TNTSPOR
 https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/TNTSPORT-4
 #EXTINF:-1 tvg-id="TNTSPORT5.uk" tvg-name="TNT SPORT 5 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbpFrzjsbEstaP3nZlvzst4DOhuN0YP7ZNsVc6XBVx8Bg2ko4WlTyzdmtVoVZcCqk2vg&usqp=CAU" group-title="Premier League",TNT SPORT 5 HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/311558
+
+
+
+#EXTINF:-1 tvg-id="TNTSPORT5.uk" tvg-name="SKY SPORTS PREMIER LEAGUE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXw53gnUV1zL1tDoAFLmfHNOtpMBx7goFFg&s" group-title="Premier League",SKY SPORTS PREMIER LEAGUE HD
+http://testforfree.xyz:8080/play/live.php?mac=00:1a:79:14:e1:64&stream=610050&extension=m3u8
+
 
 
 
@@ -3536,8 +3397,22 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/in
 
 
 
+==================SPORT TV GRUB==================
 
+#EXTINF:-1 tvg-id=""tvg-name="SPORT TV 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Sporttv-1.svg/revision/latest?cb=20231020154416" group-title="SPORT TV GRUB",SPORT TV 1 HD
+http://testforfree.xyz:8080/play/live.php?mac=00:1a:79:14:e1:64&stream=242701&extension=m3u8
 
+#EXTINF:-1 tvg-id=""tvg-name="SPORT TV 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Sporttv-2.svg/revision/latest?cb=20231020154516" group-title="SPORT TV GRUB",SPORT TV 2 HD
+http://testforfree.xyz:8080/play/live.php?mac=00:1a:79:14:e1:64&stream=242703&extension=m3u8
+
+#EXTINF:-1 tvg-id=""tvg-name="SPORT TV 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Sporttv-3.svg/revision/latest?cb=20231020154659" group-title="SPORT TV GRUB",SPORT TV 3 HD
+http://testforfree.xyz:8080/play/live.php?mac=00:1a:79:14:e1:64&stream=242704&extension=m3u8
+
+#EXTINF:-1 tvg-id=""tvg-name="SPORT TV 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Sport_TV4_%282023%29.svg" group-title="SPORT TV GRUB",SPORT TV 4 HD
+http://testforfree.xyz:8080/play/live.php?mac=00:1a:79:14:e1:64&stream=242705&extension=m3u8
+
+#EXTINF:-1 tvg-id=""tvg-name="SPORT TV 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Sporttv-5.svg/revision/latest?cb=20231020160018" group-title="SPORT TV GRUB",SPORT TV 5 HD
+http://testforfree.xyz:8080/play/live.php?mac=00:1a:79:14:e1:64&stream=242706&extension=m3u8
 
 
 
