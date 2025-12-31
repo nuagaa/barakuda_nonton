@@ -852,69 +852,8 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 #EXTINF:-1 tvg-id="beINSports5" group-title="La Liga" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f959dcdd1ca8c89658cd651ed36e2851:aa4cf56ce7c522a9e6582c42537be381
-#EXTINF:-1 tvg-id="bein1uk" tvg-name="BeIN Sports 1 UK" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png" group-title="La Liga", BeIN Sports 1 AU
-http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/pwdvd9fm5u/out/v1/5e22845dab3648b8a7033fd5923d62d1/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1
-#EXTINF:-1 tvg-id="bein2uk" tvg-name="BeIN Sports 2 UK" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png" group-title="La Liga", BeIN Sports 2 AU
-http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
-#EXTINF:-1 tvg-id="bein3uk" tvg-name="BeIN Sports 3 UK" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png" group-title="La Liga", BeIN Sports 3 AU
-http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
-#EXTINF:-1 group-title="La Liga" tvg-id="The Sports Network 1" tvg-name="The Sports Network 1" tvg-logo="https://i.imgur.com/0JdGJpc.png" ,TSN 1 CA
-http://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42
-#EXTINF:-1 group-title="La Liga" tvg-id="The Sports Network 2" tvg-name="The Sports Network 2" tvg-logo="https://i.imgur.com/8gUvjoQ.png" ,TSN 2 CA
-http://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9097a1b7d04b7786b29f2b0e155316d:279695ebe0fb1bc5787422b6b59ce8a8
-#EXTINF:-1 group-title="La Liga" tvg-id="The Sports Network 3" tvg-name="The Sports Network 3" tvg-logo="https://i.imgur.com/xGXIzXg.png" ,TSN 3 CA
-http://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e1aa4c4daf6222a04f7ae80130495ea1:31bb1ee9a8d088f62b0103550c301449
-#EXTINF:-1 group-title="La Liga" tvg-id="The Sports Network 4" tvg-name="The Sports Network 4" tvg-logo="https://i.imgur.com/Q4zVND8.png" ,TSN 4 CA
-http://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
-#EXTINF:-1 group-title="La Liga" tvg-id="The Sports Network 5" tvg-name="The Sports Network 5" tvg-logo="https://i.imgur.com/HZULzt2.png" ,TSN 5 CA
-http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="La Liga",BEIN SPORTS 1 AU
+https://raw.githubusercontent.com/B-inal-123/bein-s/refs/heads/inal-22/BeinSportTOD9.m3u8
 
 
 
@@ -1385,23 +1324,27 @@ http://xtsgvsa.luxevpn.xyz/live/7610877168/0940503600/379046.ts
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="Bein Sports",BEIN SPORTS AR 1
-https://raw.githubusercontent.com/B-inal-123/bein-s/refs/heads/inal-22/BeinSportTOD1.m3u8
+http://starshare.st/live/3033516711/837973984/652310.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="Bein Sports",BEIN SPORTS AR 2 
-https://raw.githubusercontent.com/B-inal-123/bein-s/refs/heads/inal-22/BeinSportTOD2.m3u8
+http://starshare.st/live/3033516711/837973984/652311.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="Bein Sports",BEIN SPORTS AR 3
-https://raw.githubusercontent.com/B-inal-123/bein-s/refs/heads/inal-22/BeinSportTOD3.m3u8
+http://starshare.st/live/3033516711/837973984/652312.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="Bein Sports",BEIN SPORTS AR 4
-https://raw.githubusercontent.com/B-inal-123/bein-s/refs/heads/inal-22/BeinSportTOD4.m3u8
+http://starshare.st/live/3033516711/837973984/652313.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="Bein Sports",BEIN SPORTS AR 5
-https://raw.githubusercontent.com/B-inal-123/bein-s/refs/heads/inal-22/BeinSportTOD5.m3u8
+http://starshare.st/live/3033516711/837973984/652314.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="Bein Sports",BEIN SPORTS AR 6
-https://raw.githubusercontent.com/B-inal-123/bein-s/refs/heads/inal-22/BeinSportTOD6.m3u8
+http://starshare.st/live/3033516711/837973984/652315.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="Bein Sports",BEIN SPORTS AR 7
-https://raw.githubusercontent.com/B-inal-123/bein-s/refs/heads/inal-22/BeinSportTOD7.m3u8
+http://starshare.st/live/3033516711/837973984/652316.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="Bein Sports",BEIN SPORTS AR 8
-https://raw.githubusercontent.com/B-inal-123/bein-s/refs/heads/inal-22/BeinSportTOD8.m3u8
+http://starshare.st/live/3033516711/837973984/652317.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="Bein Sports",BEIN SPORTS AR 9
-https://raw.githubusercontent.com/B-inal-123/bein-s/refs/heads/inal-22/BeinSportTOD9.m3u8
+http://starshare.st/live/3033516711/837973984/652318.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="Bein Sports",BEIN SPORTS ENG 1
+http://starshare.st/live/3033516711/837973984/652319.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="Bein Sports",BEIN SPORTS ENG 2
+http://starshare.st/live/3033516711/837973984/652319.ts
 
 
 
@@ -3413,6 +3356,7 @@ http://testforfree.xyz:8080/play/live.php?mac=00:1a:79:14:e1:64&stream=242705&ex
 
 #EXTINF:-1 tvg-id=""tvg-name="SPORT TV 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Sporttv-5.svg/revision/latest?cb=20231020160018" group-title="SPORT TV GRUB",SPORT TV 5 HD
 http://testforfree.xyz:8080/play/live.php?mac=00:1a:79:14:e1:64&stream=242706&extension=m3u8
+
 
 
 
