@@ -857,6 +857,20 @@ https://raw.githubusercontent.com/B-inal-123/bein-s/refs/heads/inal-22/BeinSport
 
 
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague.my" tvg-name="MY | Astro Premier League 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="La Liga", Super Sport 1
+http://r665.io:80/live/caneychristopher9911/hAMP81fD/4269.m3u8
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague2.my" tvg-name="MY | Astro Premier League 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" group-title="La Liga",Super Sport 2
+http://r665.io:80/live/caneychristopher9911/hAMP81fD/4268.m3u8
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague3.my" tvg-name="MY | Astro Premier League 3 FHD" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbbUgU6bJCbi4WFWK3mftkUw.png" group-title="La Liga",Super Sport 3
+http://r665.io:80/live/caneychristopher9911/hAMP81fD/4267.m3u8
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague4.my" tvg-name="MY | Astro Premier League 4 FHD" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbbUgU6bJCbi4WFWK3mftkUw.png" group-title="La Liga",Super Sport 4
+https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSSB4.m3u8
 
 
 
