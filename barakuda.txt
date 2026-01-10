@@ -3028,7 +3028,7 @@ https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPO
 https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-XTRA-1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JRWahWk.png" group-title="BEIN SPORT VIP",BEIN AR XTRA 2
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-XTRA-2
+http://topsat.site:2052/live/yyY0JkZG/mnP4xus/459035.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JRWahWk.png" group-title="BEIN SPORT VIP",BEIN AR XTRA 3
 https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-XTRA-3
@@ -3386,6 +3386,7 @@ http://testforfree.xyz:8080/play/live.php?mac=00:1a:79:14:e1:64&stream=242705&ex
 
 #EXTINF:-1 tvg-id=""tvg-name="SPORT TV 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Sporttv-5.svg/revision/latest?cb=20231020160018" group-title="SPORT TV GRUB",SPORT TV 5 HD
 http://testforfree.xyz:8080/play/live.php?mac=00:1a:79:14:e1:64&stream=242706&extension=m3u8
+
 
 
 
