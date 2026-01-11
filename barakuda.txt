@@ -667,7 +667,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="Premier League",BEIN SPORTS AR 1
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/48.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="Premier League",BEIN SPORTS AR 1 tes
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142774
+http://starshare.st/live/3033516711/837973984/659533.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="Premier League",BEIN SPORTS AR 2 
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/49.m3u8
 
@@ -2964,6 +2964,7 @@ http://testforfree.xyz:8080/play/live.php?mac=00:1a:79:14:e1:64&stream=242705&ex
 
 #EXTINF:-1 tvg-id=""tvg-name="SPORT TV 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Sporttv-5.svg/revision/latest?cb=20231020160018" group-title="SPORT TV GRUB",SPORT TV 5 HD
 http://testforfree.xyz:8080/play/live.php?mac=00:1a:79:14:e1:64&stream=242706&extension=m3u8
+
 
 
 
