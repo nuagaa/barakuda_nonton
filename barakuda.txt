@@ -680,17 +680,16 @@ http://testforfree.xyz:8080/play/live.php?mac=00:1a:79:14:e1:64&stream=610050&ex
 #EXTM3U
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague.my" tvg-name="MY | Astro Premier League 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="Premier League",MY | Astro Premier League 1
-https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSSB1.m3u8
+http://revipeofercmv.top:8080/live/VIP018801757356038635/c1d187311ab3/34535.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague2.my" tvg-name="MY | Astro Premier League 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" group-title="Premier League",MY | Astro Premier League 2
-https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSSB2.m3u8
+http://revipeofercmv.top:8080/live/VIP018801757356038635/c1d187311ab3/34534.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague3.my" tvg-name="MY | Astro Premier League 3 FHD" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbbUgU6bJCbi4WFWK3mftkUw.png" group-title="Premier League",MY | Astro Premier League 3 FHD
-https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSSB3.m3u8
+http://revipeofercmv.top:8080/live/VIP018801757356038635/c1d187311ab3/34533.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague4.my" tvg-name="MY | Astro Premier League 4 FHD" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbbUgU6bJCbi4WFWK3mftkUw.png" group-title="Premier League",MY | Astro Premier League 4 FHD
-https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSSB4.m3u8
-
+http://revipeofercmv.top:8080/live/VIP018801757356038635/c1d187311ab3/34531.m3u8
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-1.png" group-title="Premier League",Hub Premier 1 FHD
@@ -2964,6 +2963,7 @@ http://testforfree.xyz:8080/play/live.php?mac=00:1a:79:14:e1:64&stream=242705&ex
 
 #EXTINF:-1 tvg-id=""tvg-name="SPORT TV 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Sporttv-5.svg/revision/latest?cb=20231020160018" group-title="SPORT TV GRUB",SPORT TV 5 HD
 http://testforfree.xyz:8080/play/live.php?mac=00:1a:79:14:e1:64&stream=242706&extension=m3u8
+
 
 
 
