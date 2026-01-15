@@ -626,76 +626,68 @@ https://spacetv.my.id/index.mpd?id=19384&type=dash
 
 #EXTM3U
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 1
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 1
 http://revipeofercmv.top:8080/live/VIP018801757356038635/c1d187311ab3/34535.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 2
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 2
 http://revipeofercmv.top:8080/live/VIP018801757356038635/c1d187311ab3/34534.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 3
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 3
 http://revipeofercmv.top:8080/live/VIP018801757356038635/c1d187311ab3/34533.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 3" tvg-name="LIVE 3" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 4
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 3" tvg-name="LIVE 3" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 4
 http://revipeofercmv.top:8080/live/VIP018801757356038635/c1d187311ab3/34531.m3u8
 
 
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 5" tvg-name="LIVE 5" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 5
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 5" tvg-name="LIVE 5" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 5
 http://starshare.st/live/3033516711/837973984/148158.ts
-##https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 6" tvg-name="LIVE 6" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 6
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 6" tvg-name="LIVE 6" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 6
 http://starshare.st/live/3033516711/837973984/148159.ts
-##https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL2.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 7" tvg-name="LIVE 7" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 7
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 7" tvg-name="LIVE 7" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 7
 http://starshare.st/live/3033516711/837973984/148160.ts
-##https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL3.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 8" tvg-name="LIVE 8" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 8" tvg-name="LIVE 8" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 8
 http://starshare.st/live/3033516711/837973984/148161.ts
-##https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL4.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 9" tvg-name="LIVE 9" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 9
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 9" tvg-name="LIVE 9" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 9
 http://starshare.st/live/3033516711/837973984/148162.ts
-##https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL5.m3u8
-
-
 
 
 #EXTM3U
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 10" tvg-name="LIVE 10" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 10
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 10" tvg-name="LIVE 10" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 10
 https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/TNTSPORT-1
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 11" tvg-name="LIVE 11" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 11
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 11" tvg-name="LIVE 11" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 11
 https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/TNTSPORT-2
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 12" tvg-name="LIVE 12" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 12
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 12" tvg-name="LIVE 12" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 12
 https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/TNTSPORT-3
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 13" tvg-name="LIVE 13" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 13
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 13" tvg-name="LIVE 13" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 13
 https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/TNTSPORT-4
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 14" tvg-name="LIVE 14" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 14
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 14" tvg-name="LIVE 14" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 14
 http://bestp55.xyz:80/A7FC77529786/519C32219872/311558
 
 
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 15" tvg-name="LIVE 15" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 15
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 15" tvg-name="LIVE 15" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 15
 http://topsat.site:2052/live/yyY0JkZG/mnP4Xus/117321.ts
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 16" tvg-name="LIVE 16" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 16
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 16" tvg-name="LIVE 16" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 16
 http://topsat.site:2052/live/yyY0JkZG/mnP4Xus/117322.ts
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 17" tvg-name="LIVE 17" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 17
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 17" tvg-name="LIVE 17" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 17
 http://topsat.site:2052/live/yyY0JkZG/mnP4Xus/275458.ts
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 18" tvg-name="LIVE 18" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 18
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 18" tvg-name="LIVE 18" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 18
 http://topsat.site:2052/live/yyY0JkZG/mnP4Xus/275457.ts
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 19" tvg-name="LIVE 19" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 19
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 19" tvg-name="LIVE 19" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 19
 http://testforfree.xyz:8080/play/live.php?mac=00:1a:79:14:e1:64&stream=610050&extension=m3u8
+
 
 
 
