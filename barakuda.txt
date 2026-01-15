@@ -390,8 +390,9 @@ http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/o
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-id="beINSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="La Liga", beIN Sports 1
+#EXTINF:-1 tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="LA LIGA",LIVE 1
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -399,8 +400,9 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-id="beINSports2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="La Liga", beIN Sports 2
+#EXTINF:-1 tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="LA LIGA",LIVE 2
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -408,8 +410,9 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-id="beINSports3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="La Liga", beIN Sports 3
+#EXTINF:-1 tvg-id="LIVE 3" tvg-name="LIVE 3" tvg-logo="https://iili.io/fSAHoVs.png" group-title="LA LIGA",LIVE 3
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -417,8 +420,9 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
-#EXTINF:-1 tvg-id="beINSports4" group-title="La Liga" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png", beIN Sports 4
+#EXTINF:-1 tvg-id="LIVE 4" tvg-name="LIVE 4" tvg-logo="https://iili.io/fSAHoVs.png" group-title="LA LIGA",LIVE 4
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -426,30 +430,8 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="beINSports5" group-title="La Liga" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5
+#EXTINF:-1 tvg-id="LIVE 5" tvg-name="LIVE 5" tvg-logo="https://iili.io/fSAHoVs.png" group-title="LA LIGA",LIVE 5
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="La Liga",BEIN SPORTS 1 AU
-https://raw.githubusercontent.com/B-inal-123/bein-s/refs/heads/inal-22/BeinSportTOD9.m3u8
-
-
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague.my" tvg-name="MY | Astro Premier League 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="La Liga", Super Sport 1
-http://r665.io:80/live/caneychristopher9911/hAMP81fD/4269.m3u8
-
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague2.my" tvg-name="MY | Astro Premier League 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" group-title="La Liga",Super Sport 2
-http://r665.io:80/live/caneychristopher9911/hAMP81fD/4268.m3u8
-
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague3.my" tvg-name="MY | Astro Premier League 3 FHD" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbbUgU6bJCbi4WFWK3mftkUw.png" group-title="La Liga",Super Sport 3
-http://r665.io:80/live/caneychristopher9911/hAMP81fD/4267.m3u8
-
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague4.my" tvg-name="MY | Astro Premier League 4 FHD" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbbUgU6bJCbi4WFWK3mftkUw.png" group-title="La Liga",Super Sport 4
-https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSSB4.m3u8
-
 
 
 
@@ -2829,6 +2811,7 @@ http://testforfree.xyz:8080/play/live.php?mac=00:1a:79:14:e1:64&stream=242705&ex
 
 #EXTINF:-1 tvg-id=""tvg-name="SPORT TV 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Sporttv-5.svg/revision/latest?cb=20231020160018" group-title="SPORT TV GRUB",SPORT TV 5 HD
 http://testforfree.xyz:8080/play/live.php?mac=00:1a:79:14:e1:64&stream=242706&extension=m3u8
+
 
 
 
