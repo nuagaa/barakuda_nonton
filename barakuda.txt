@@ -1036,3 +1036,48 @@ https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/lliga
 
 #EXTINF:-1 tvg-id="" tvg-name="Liga Italy 11" tvg-logo="https://iili.io/fSAHoVs.png" group-title="Live Event Update",Liga Italy 11
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/lligaitali11.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=========================================== HBO GROUP ===========================================
+
+
+
+
+
+#EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg"",HBO 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+http://tv.casindo.org/hls/27/27.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-id="hbohitsasia.sg" tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg", HBO HITS 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+http://tv.casindo.org/hls/28/28.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-id="hbofamilyasia.sg" tvg-logo="https://mimipipi22.github.io/logo/movies/hbofam.jpg",HBO FAMILY 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+http://tv.casindo.org/hls/30/30.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-id="hbosignatureasia.sg" tvg-logo="https://mimipipi22.github.io/logo/movies/hbosig.jpg",HBO SIGNATURE 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+http://tv.casindo.org/hls/29/29.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+#EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-id="cinemaxasia.sg" tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png",CINEMAX 
+http://tv.casindo.org/hls/26/26.m3u8
