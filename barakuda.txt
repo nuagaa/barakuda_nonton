@@ -622,203 +622,80 @@ https://spacetv.my.id/index.mpd?id=19384&type=dash
 
 
 
-<==================================================== Premier League ====================================================>
-
-
-#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="Premier League",Champions TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17938&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
-
-#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://iili.io/2lP43sS.png" group-title="Premier League",Champions TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6686&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash 
-
-#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/2lP42X2.png" group-title="Premier League",Champions TV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6786&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
-
-#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://iili.io/2lP4dzl.png" group-title="Premier League",Champions TV 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9182&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
-
-#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="Premier League",Champions TV 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
-
+<==================================================== PREMIER LEAGUE ====================================================>
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="Premier League",BEIN SPORTS AR 1
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/48.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="Premier League",BEIN SPORTS AR 1 tes
-http://starshare.st/live/3033516711/837973984/659533.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNjQzR5.png" group-title="Premier League",BEIN SPORTS AR 2 
-http://starshare.st/live/3033516711/837973984/210593.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uqVwDrB.png" group-title="Premier League",BEIN SPORTS EN 1
-http://xtsgvsa.luxevpn.xyz/live/7610877168/0940503600/5039.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dWNbCyx.png" group-title="Premier League",BEIN SPORTS EN 2
-http://testforfree.xyz:8080/play/live.php?mac=00:1a:79:14:e1:64&stream=610050&extension=ts
-
-
-#EXTM3U
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague.my" tvg-name="MY | Astro Premier League 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="Premier League",MY | Astro Premier League 1
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 1
 http://revipeofercmv.top:8080/live/VIP018801757356038635/c1d187311ab3/34535.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague2.my" tvg-name="MY | Astro Premier League 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" group-title="Premier League",MY | Astro Premier League 2
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 2
 http://revipeofercmv.top:8080/live/VIP018801757356038635/c1d187311ab3/34534.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague3.my" tvg-name="MY | Astro Premier League 3 FHD" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbbUgU6bJCbi4WFWK3mftkUw.png" group-title="Premier League",MY | Astro Premier League 3 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 3
 http://revipeofercmv.top:8080/live/VIP018801757356038635/c1d187311ab3/34533.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague4.my" tvg-name="MY | Astro Premier League 4 FHD" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbbUgU6bJCbi4WFWK3mftkUw.png" group-title="Premier League",MY | Astro Premier League 4 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 3" tvg-name="LIVE 3" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 4
 http://revipeofercmv.top:8080/live/VIP018801757356038635/c1d187311ab3/34531.m3u8
 
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-1.png" group-title="Premier League",Hub Premier 1 FHD
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 5" tvg-name="LIVE 5" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 5
 http://starshare.st/live/3033516711/837973984/148158.ts
 ##https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier2.sg" tvg-name="Hub Premier 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-2.png" group-title="Premier League",Hub Premier 2 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 6" tvg-name="LIVE 6" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 6
 http://starshare.st/live/3033516711/837973984/148159.ts
 ##https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL2.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier3.sg" tvg-name="Hub Premier 3 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-3.png" group-title="Premier League",Hub Premier 3 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 7" tvg-name="LIVE 7" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 7
 http://starshare.st/live/3033516711/837973984/148160.ts
 ##https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL3.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier4.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-4.png" group-title="Premier League",Hub Premier 4 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 8" tvg-name="LIVE 8" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 8
 http://starshare.st/live/3033516711/837973984/148161.ts
 ##https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL4.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier5.sg" tvg-name="Hub Premier 5 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-5.png" group-title="Premier League",Hub Premier 5 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 9" tvg-name="LIVE 9" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 9
 http://starshare.st/live/3033516711/837973984/148162.ts
 ##https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL5.m3u8
 
 
 
+
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TNTSPORT1.uk" tvg-name="TNT SPORT 1 HD" tvg-logo="https://img-284.media.info/i/bg/1/1539-1690027797.webp" group-title="Premier League",TNT SPORT 1 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 10" tvg-name="LIVE 10" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 10
 https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/TNTSPORT-1
 
-#EXTINF:-1 tvg-id="TNTSPORT2.uk" tvg-name="TNT SPORT 2 HD" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Premier League",TNT SPORT 2 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 11" tvg-name="LIVE 11" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 11
 https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/TNTSPORT-2
-#EXTINF:-1 tvg-id="TNTSPORT3.uk" tvg-name="TNT SPORT 3 HD" tvg-logo="https://img-284.media.info/i/bg/5/5712-1690027954.webp" group-title="Premier League",TNT SPORT 3 HD
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 12" tvg-name="LIVE 12" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 12
 https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/TNTSPORT-3
-#EXTINF:-1 tvg-id="TNTSPORT4.uk" tvg-name="TNT SPORT 4 HD" tvg-logo="https://img-284.media.info/i/bg/1/1491-1690027975.webp" group-title="Premier League",TNT SPORT 4 HD
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 13" tvg-name="LIVE 13" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 13
 https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/TNTSPORT-4
-#EXTINF:-1 tvg-id="TNTSPORT5.uk" tvg-name="TNT SPORT 5 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbpFrzjsbEstaP3nZlvzst4DOhuN0YP7ZNsVc6XBVx8Bg2ko4WlTyzdmtVoVZcCqk2vg&usqp=CAU" group-title="Premier League",TNT SPORT 5 HD
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 14" tvg-name="LIVE 14" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 14
 http://bestp55.xyz:80/A7FC77529786/519C32219872/311558
 
 
 
-#EXTINF:-1 tvg-id="TNTSPORT1.uk" tvg-name="TNT SPORT 1 HD" tvg-logo="https://img-284.media.info/i/bg/1/1539-1690027797.webp" group-title="Premier League",TNT SPORT 1 HD Backup
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 15" tvg-name="LIVE 15" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 15
 http://topsat.site:2052/live/yyY0JkZG/mnP4Xus/117321.ts
 
-#EXTINF:-1 tvg-id="TNTSPORT2.uk" tvg-name="TNT SPORT 2 HD" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Premier League",TNT SPORT 2 HD Backup
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 16" tvg-name="LIVE 16" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 16
 http://topsat.site:2052/live/yyY0JkZG/mnP4Xus/117322.ts
 
-
-#EXTINF:-1 tvg-id="TNTSPORT3.uk" tvg-name="TNT SPORT 3 HD" tvg-logo="https://img-284.media.info/i/bg/5/5712-1690027954.webp" group-title="Premier League",TNT SPORT 3 HD Backup
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 17" tvg-name="LIVE 17" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 17
 http://topsat.site:2052/live/yyY0JkZG/mnP4Xus/275458.ts
 
-
-#EXTINF:-1 tvg-id="TNTSPORT4.uk" tvg-name="TNT SPORT 4 HD" tvg-logo="https://img-284.media.info/i/bg/1/1491-1690027975.webp" group-title="Premier League",TNT SPORT 4 HD Backup
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 18" tvg-name="LIVE 18" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 18
 http://topsat.site:2052/live/yyY0JkZG/mnP4Xus/275457.ts
 
-
-
-#EXTINF:-1 tvg-id="TNTSPORT5.uk" tvg-name="SKY SPORTS PREMIER LEAGUE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXw53gnUV1zL1tDoAFLmfHNOtpMBx7goFFg&s" group-title="Premier League",SKY SPORTS PREMIER LEAGUE HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 19" tvg-name="LIVE 19" tvg-logo="https://freeimage.host/i/fSuGBQS" group-title="PREMIER LEAGUE",LIVE 19
 http://testforfree.xyz:8080/play/live.php?mac=00:1a:79:14:e1:64&stream=610050&extension=m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTM3U
-
-#EXTINF:-1 tvg-id="VSPORTUHD" tvg-logo="https://i.imgur.com/F7uH9L9.png" group-title="Premier League",V-SPORT PREMIER LEAGUE UHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) OTT-Navigator/1.7.0
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:adaptive-use-access=true
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/V-SPORT-UHD
-
-#EXTINF:-1 tvg-id="VSPORT1" tvg-logo="https://i.imgur.com/F7uH9L9.png" group-title="Premier League",V-SPORT PREMIER LEAGUE 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) OTT-Navigator/1.7.0
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:adaptive-use-access=true
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/V-SPORT-1
-
-#EXTINF:-1 tvg-id="VSPORT2" tvg-logo="https://i.imgur.com/F7uH9L9.png" group-title="Premier League",V-SPORT PREMIER LEAGUE 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) OTT-Navigator/1.7.0
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:adaptive-use-access=true
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/V-SPORT-2
-
-#EXTINF:-1 tvg-id="VSPORT3" tvg-logo="https://i.imgur.com/F7uH9L9.png" group-title="Premier League",V-SPORT PREMIER LEAGUE 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) OTT-Navigator/1.7.0
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:adaptive-use-access=true
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/V-SPORT-3
-
-#EXTINF:-1 tvg-id="VSPORT4" tvg-logo="https://i.imgur.com/F7uH9L9.png" group-title="Premier League",V-SPORT PREMIER LEAGUE 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) OTT-Navigator/1.7.0
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:adaptive-use-access=true
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/V-SPORT-4
-
-
-
-
-
-
-
-
 
 
 
@@ -2963,6 +2840,7 @@ http://testforfree.xyz:8080/play/live.php?mac=00:1a:79:14:e1:64&stream=242705&ex
 
 #EXTINF:-1 tvg-id=""tvg-name="SPORT TV 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Sporttv-5.svg/revision/latest?cb=20231020160018" group-title="SPORT TV GRUB",SPORT TV 5 HD
 http://testforfree.xyz:8080/play/live.php?mac=00:1a:79:14:e1:64&stream=242706&extension=m3u8
+
 
 
 
