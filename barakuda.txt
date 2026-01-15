@@ -1049,16 +1049,16 @@ https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/lliga
 
 
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="COPA DEL REY",LIVE 1
-http://klaratv.com:80/live/26360cc6c0/53542b4b715b/45235.m3u8
+http://starshare.st/live/3033516711/837973984/389134.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="COPA DEL REY",LIVE 2
-http://klaratv.com:80/live/26360cc6c0/53542b4b715b/163608.m3u8
+http://starshare.st/live/3033516711/837973984/389134.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="COPA DEL REY",LIVE 3
-http://my33tv.live/live/943747634971/482992356116/359149.m3u8
+http://starshare.st/live/3033516711/837973984/210601.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="COPA DEL REY",LIVE 4
-http://my33tv.live/live/943747634971/482992356116/359149.m3u8
+http://starshare.st/live/3033516711/837973984/210601.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="COPA DEL REY",LIVE 5
 http://starshare.st/live/3033516711/837973984/210598.ts
@@ -1112,3 +1112,4 @@ http://tv.casindo.org/hls/29/29.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-id="cinemaxasia.sg" tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png",CINEMAX 
 http://tv.casindo.org/hls/26/26.m3u8
+
