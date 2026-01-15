@@ -1045,6 +1045,33 @@ https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/lliga
 
 
 
+============COPA DEL REY==========
+
+
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="COPA DEL REY",LIVE 1
+http://klaratv.com:80/live/26360cc6c0/53542b4b715b/45235.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="COPA DEL REY",LIVE 2
+http://klaratv.com:80/live/26360cc6c0/53542b4b715b/163608.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="COPA DEL REY",LIVE 3
+http://my33tv.live/live/943747634971/482992356116/359149.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="COPA DEL REY",LIVE 4
+http://my33tv.live/live/943747634971/482992356116/359149.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="COPA DEL REY",LIVE 5
+http://starshare.st/live/3033516711/837973984/210598.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="COPA DEL REY",LIVE 6
+http://starshare.st/live/3033516711/837973984/210593.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="COPA DEL REY",LIVE 7
+http://starshare.st/live/3033516711/837973984/210594.ts
+
+
+
+
 
 
 
