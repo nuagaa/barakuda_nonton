@@ -627,16 +627,16 @@ https://spacetv.my.id/index.mpd?id=19384&type=dash
 #EXTM3U
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 1
-http://revipeofercmv.top:8080/live/VIP018801757356038635/c1d187311ab3/34535.m3u8
+http://starshare.st/live/3033516711/837973984/652310.ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 2
-http://revipeofercmv.top:8080/live/VIP018801757356038635/c1d187311ab3/34534.m3u8
+http://starshare.st/live/3033516711/837973984/652311.ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 3
-http://revipeofercmv.top:8080/live/VIP018801757356038635/c1d187311ab3/34533.m3u8
+http://starshare.st/live/3033516711/837973984/652319.ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 3" tvg-name="LIVE 3" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 4
-http://revipeofercmv.top:8080/live/VIP018801757356038635/c1d187311ab3/34531.m3u8
+http://starshare.st/live/3033516711/837973984/652319.ts
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 5" tvg-name="LIVE 5" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 5
