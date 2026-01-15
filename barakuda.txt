@@ -767,9 +767,6 @@ http://xtsgvsa.luxevpn.xyz/live/7610877168/0940503600/401338313.ts
 #EXTINF:-1 tvg-id="TNTSPORT4.uk" tvg-name="TNT SPORT 4 HD" tvg-logo="https://img-284.media.info/i/bg/1/1491-1690027975.webp" group-title="Serie A",TNT SPORT 4 HD
 https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/TNTSPORT-4
 
-#EXTINF:-1 tvg-id="TNTSPORT5.uk" tvg-name="TNT SPORT 5 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbpFrzjsbEstaP3nZlvzst4DOhuN0YP7ZNsVc6XBVx8Bg2ko4WlTyzdmtVoVZcCqk2vg&usqp=CAU" group-title="Premier League",TNT SPORT 5 HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/311558
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 SPAIN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyE-K-43FZ_16IFb9aUbFKSHYpAVmEC-jhw&s" group-title="Serie A",DAZN 1 SPAIN
