@@ -298,17 +298,19 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 5" tvg-name="LIVE 5" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 4
-http://starshare.st/live/3033516711/837973984/148158.ts
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 6" tvg-name="LIVE 6" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 5
-http://starshare.st/live/3033516711/837973984/148159.ts
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 10" tvg-name="LIVE 10" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 4
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/TNTSPORT-1
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 7" tvg-name="LIVE 7" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 6
-http://starshare.st/live/3033516711/837973984/148160.ts
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 11" tvg-name="LIVE 11" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 5
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/TNTSPORT-2
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 8" tvg-name="LIVE 8" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 7
-http://starshare.st/live/3033516711/837973984/148161.ts
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 12" tvg-name="LIVE 12" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 6
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/TNTSPORT-3
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 13" tvg-name="LIVE 13" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 7
+https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/TNTSPORT-4
+
 
 #EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
