@@ -188,17 +188,18 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 
 ==================SERIE A=====================
 
-#EXTINF:-1 tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="SERIE A",LIVE 1
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/TNTSPORT-1
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="SERIE A",LIVE 1
+http://starshare.st/live/3033516711/837973984/652318.ts
 
-#EXTINF:-1 tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="SERIE A",LIVE 2
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/TNTSPORT-2
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 3" tvg-logo="https://iili.io/fSAHoVs.png" group-title="SERIE A",LIVE 2
+http://starshare.st/live/3033516711/837973984/652319.ts
 
-#EXTINF:-1 tvg-id="LIVE 3" tvg-name="LIVE 3" tvg-logo="https://iili.io/fSAHoVs.png" group-title="SERIE A",LIVE 3
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/TNTSPORT-3
 
-#EXTINF:-1 tvg-id="LIVE 4" tvg-name="LIVE 4" tvg-logo="https://iili.io/fSAHoVs.png" group-title="SERIE A",LIVE 4
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/TNTSPORT-4
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 3" tvg-name="LIVE 5" tvg-logo="https://iili.io/fSAHoVs.png" group-title="SERIE A",LIVE 3
+http://starshare.st/live/3033516711/837973984/148158.ts
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 4" tvg-name="LIVE 6" tvg-logo="https://iili.io/fSAHoVs.png" group-title="SERIE A",LIVE 4
+http://starshare.st/live/3033516711/837973984/148159.ts
 
 
 
@@ -263,7 +264,66 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 
 
 
+================UEFA CHAMPIONS LEAGUE========================
 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTINF:-1 tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 1
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+#EXTINF:-1 tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 2
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTINF:-1 tvg-id="LIVE 3" tvg-name="LIVE 3" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 3
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 2" tvg-logo="[https://iili.io/fSAHoVs.png](https://iili.io/fSAHoVs.png)" group-title="UEFA CHAMPIONS LEAGUE",LIVE 4
+[http://starshare.st/live/3033516711/837973984/652318.ts](http://starshare.st/live/3033516711/837973984/652318.ts)
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 3" tvg-logo="[https://iili.io/fSAHoVs.png](https://iili.io/fSAHoVs.png)" group-title="UEFA CHAMPIONS LEAGUE",LIVE 5
+[http://starshare.st/live/3033516711/837973984/652319.ts](http://starshare.st/live/3033516711/837973984/652319.ts)
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 3" tvg-name="LIVE 5" tvg-logo="[https://iili.io/fSAHoVs.png](https://iili.io/fSAHoVs.png)" group-title="UEFA CHAMPIONS LEAGUE",LIVE 6
+[http://starshare.st/live/3033516711/837973984/148158.ts](http://starshare.st/live/3033516711/837973984/148158.ts)
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 4" tvg-name="LIVE 6" tvg-logo="[https://iili.io/fSAHoVs.png](https://iili.io/fSAHoVs.png)" group-title="UEFA CHAMPIONS LEAGUE",LIVE 7
+[http://starshare.st/live/3033516711/837973984/148159.ts](http://starshare.st/live/3033516711/837973984/148159.ts)
+
+
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nissa17.adptv.workers.dev/widevine.mpd?id=9182&type=drm
+https://nissa17.adptv.workers.dev/manifest.mpd?id=9182&type=dash
+
+
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nissa17.adptv.workers.dev/widevine.mpd?id=9182&type=drm
+https://nissa17.adptv.workers.dev/manifest.mpd?id=9182&type=dash
 
 
 
@@ -1210,5 +1270,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-id="cinemaxasia.sg" tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png",CINEMAX  
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.m3u8
+
 
 
