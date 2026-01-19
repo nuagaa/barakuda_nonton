@@ -297,16 +297,16 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #EXTINF:-1 tvg-id="LIVE 3" tvg-name="LIVE 3" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 3
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 2" tvg-logo="[https://iili.io/fSAHoVs.png](https://iili.io/fSAHoVs.png)" group-title="UEFA CHAMPIONS LEAGUE",LIVE 4
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 4" tvg-name="LIVE 4" tvg-logo="[https://iili.io/fSAHoVs.png](https://iili.io/fSAHoVs.png)" group-title="UEFA CHAMPIONS LEAGUE",LIVE 4
 [http://starshare.st/live/3033516711/837973984/652318.ts](http://starshare.st/live/3033516711/837973984/652318.ts)
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 3" tvg-logo="[https://iili.io/fSAHoVs.png](https://iili.io/fSAHoVs.png)" group-title="UEFA CHAMPIONS LEAGUE",LIVE 5
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 5" tvg-name="LIVE 5" tvg-logo="[https://iili.io/fSAHoVs.png](https://iili.io/fSAHoVs.png)" group-title="UEFA CHAMPIONS LEAGUE",LIVE 5
 [http://starshare.st/live/3033516711/837973984/652319.ts](http://starshare.st/live/3033516711/837973984/652319.ts)
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 3" tvg-name="LIVE 5" tvg-logo="[https://iili.io/fSAHoVs.png](https://iili.io/fSAHoVs.png)" group-title="UEFA CHAMPIONS LEAGUE",LIVE 6
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 6" tvg-name="LIVE 6" tvg-logo="[https://iili.io/fSAHoVs.png](https://iili.io/fSAHoVs.png)" group-title="UEFA CHAMPIONS LEAGUE",LIVE 6
 [http://starshare.st/live/3033516711/837973984/148158.ts](http://starshare.st/live/3033516711/837973984/148158.ts)
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 4" tvg-name="LIVE 6" tvg-logo="[https://iili.io/fSAHoVs.png](https://iili.io/fSAHoVs.png)" group-title="UEFA CHAMPIONS LEAGUE",LIVE 7
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 7" tvg-name="LIVE 7" tvg-logo="[https://iili.io/fSAHoVs.png](https://iili.io/fSAHoVs.png)" group-title="UEFA CHAMPIONS LEAGUE",LIVE 7
 [http://starshare.st/live/3033516711/837973984/148159.ts](http://starshare.st/live/3033516711/837973984/148159.ts)
 
 
@@ -1270,6 +1270,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-id="cinemaxasia.sg" tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png",CINEMAX  
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.m3u8
+
 
 
 
