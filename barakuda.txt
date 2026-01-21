@@ -62,10 +62,45 @@ http://topsat.site:2052/live/yyY0JkZG/mnP4Xus/275458.ts
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 18" tvg-name="LIVE 18" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 18
 http://topsat.site:2052/live/yyY0JkZG/mnP4Xus/275457.ts
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 19" tvg-name="LIVE 19" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 19
+#EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE", LIVE 19
+http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/1159.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE", LIVE 20
+http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/1158.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE", LIVE 21
+http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/1157.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE", LIVE 22
+http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/1160.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE", LIVE 23
+http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/1229.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 19" tvg-name="LIVE 19" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 19 off
 http://testforfree.xyz:8080/play/live.php?mac=00:1a:79:14:e1:64&stream=610050&extension=m3u8
 
-#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 20
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 20 off
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -73,7 +108,7 @@ http://testforfree.xyz:8080/play/live.php?mac=00:1a:79:14:e1:64&stream=610050&ex
 https://nissa17.adptv.workers.dev/manifest.mpd?id=6685&type=dash
 
 
-#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 21
+#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 21 off
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -81,7 +116,7 @@ https://nissa17.adptv.workers.dev/manifest.mpd?id=6685&type=dash
 https://nissa17.adptv.workers.dev/manifest.mpd?id=6686&type=dash
 
 
-#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 22
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 22 off
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -95,7 +130,7 @@ http://starshare.st/live/3033516711/837973984/652310.ts
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 24
 http://starshare.st/live/3033516711/837973984/652311.ts
 
-#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 25
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 25 off
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -103,7 +138,7 @@ http://starshare.st/live/3033516711/837973984/652311.ts
 https://nissa17.adptv.workers.dev/manifest.mpd?id=9182&type=dash
 
 
-#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 26
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 26 off
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
