@@ -13,23 +13,23 @@ http://splus.smartres.net:80/live/Hamdo627/63999766/18087.m3u8
 http://splus.smartres.net:80/live/Hamdo627/63999766/18629.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 3" tvg-name="LIVE 3" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 4
-http://starshare.st/live/3033516711/837973984/652319.ts
+https://starshare.st:433/live/3033516711/837973984/652319.ts
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 5" tvg-name="LIVE 5" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 5
-http://starshare.st/live/3033516711/837973984/148158.ts
+https://starshare.st:433/live/3033516711/837973984/148158.ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 6" tvg-name="LIVE 6" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 6
-http://starshare.st/live/3033516711/837973984/148159.ts
+https://starshare.st:443/live/3033516711/837973984/148159.ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 7" tvg-name="LIVE 7" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 7
-http://starshare.st/live/3033516711/837973984/148160.ts
+https://starshare.st:433/live/3033516711/837973984/148160.ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 8" tvg-name="LIVE 8" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 8
-http://starshare.st/live/3033516711/837973984/148161.ts
+https://starshare.st:433/live/3033516711/837973984/148161.ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 9" tvg-name="LIVE 9" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 9
-http://starshare.st/live/3033516711/837973984/148162.ts
+https://starshare.st:433/live/3033516711/837973984/148162.ts
 
 
 #EXTM3U
@@ -1295,17 +1295,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 #EXTM3U
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFOCNVqGbw0yOQYrN639SsVd9enPWASNGBw&usqp=CAU" group-title="Champions TV ", Champions 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1605,4 +1594,3 @@ https://mobilelive-play.ysp.cctv.cn/ikotv/D3EF2BAA571558E9AD0E718807A1E00590A26F
 
 #EXTINF:-1 tvg-id="BADMINTON_COURT_3" tvg-name="Badminton Court 3" group-title="BADMINTON LIVE",🏸 Badminton Court 3
 https://mobilelive-play.ysp.cctv.cn/ikotv/84E506958A8675335CA2BF0150B4D978EFA5EF052C982369711D905ABCE75BBB158E025D913CF24BAB3A5FFCC996D3C1A0431A5C589D6C2D7D989F4CF9243FC8E7B0902D2FC5740AC9C35C3BA1C660D81488EDC13C12AA9522896BC6E9BF9012E1D20368774070C063322C688AD79187/2029887501_fhd.m3u8?svrtime=1768876138&pid=600216651&m3u8_with_time_tag=2&cdn=5201&revoi=&app_id=519748109&guid=mhaklnq9_dh9vvf6p8h5&ysign=34a910f83596f8647801c2bf6a5d8100&ytime=1768876138&ytype=3
-
