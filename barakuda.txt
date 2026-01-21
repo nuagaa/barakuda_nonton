@@ -34,20 +34,23 @@ http://starshare.st:80/live/3033516711/837973984/148162.ts
 
 #EXTM3U
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 10" tvg-name="LIVE 10" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 10
-http://xtv.ooo:8080/Faisalfb007/4328641/223056
+#EXTM3U
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 11" tvg-name="LIVE 11" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 11
-http://xtv.ooo:8080/live//Faisalfb007/4328641/223057.m3u8
+#EXTINF:-1 tvg-id="LIVE 10" tvg-name="LIVE 10" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 10
+http://xtv.ooo:8080/live/Faisalfb007/4328641/223056.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 12" tvg-name="LIVE 12" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 12
+#EXTINF:-1 tvg-id="LIVE 11" tvg-name="LIVE 11" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 11
+http://xtv.ooo:8080/live/Faisalfb007/4328641/223057.m3u8
+
+#EXTINF:-1 tvg-id="LIVE 12" tvg-name="LIVE 12" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 12
 http://xtv.ooo:8080/live/Faisalfb007/4328641/223058.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 13" tvg-name="LIVE 13" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 13
+#EXTINF:-1 tvg-id="LIVE 13" tvg-name="LIVE 13" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 13
 http://xtv.ooo:8080/live/Faisalfb007/4328641/223059.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 14" tvg-name="LIVE 14" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 14
+#EXTINF:-1 tvg-id="LIVE 14" tvg-name="LIVE 14" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 14
 http://xtv.ooo:8080/live/Faisalfb007/4328641/223060.m3u8
+
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 15" tvg-name="LIVE 15" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 15
