@@ -77,30 +77,6 @@ http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1163986.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE", LIVE 23 vip
-http://xtv.ooo:8080/Faisalfb007/4328641/223056
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 19" tvg-name="LIVE 19" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 19 off
 http://testforfree.xyz:8080/play/live.php?mac=00:1a:79:14:e1:64&stream=610050&extension=m3u8
 
