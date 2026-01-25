@@ -18,10 +18,10 @@ https://parlay12.serv00.net/pidio/index.mpd?id=9183&type=dash
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 3
-http://splus.smartres.net:80/live/Hamdo627/63999766/18629.m3u8
+http://1.mhpro1.xyz:80/live/onsportxx596/mbc358879/3270.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 3" tvg-name="LIVE 3" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 4
-http://starshare.st:80/live/3033516711/837973984/652319.ts
+http://1.mhpro1.xyz:80/live/onsportxx596/mbc358879/12319.m3u8
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 5" tvg-name="LIVE 5" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 5
@@ -74,10 +74,10 @@ http://topsat.site:2052/live/yyY0JkZG/mnP4Xus/275458.ts
 http://topsat.site:2052/live/yyY0JkZG/mnP4Xus/275457.ts
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE", LIVE 19
-http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/1159.m3u8
+http://1.mhpro1.xyz:80/live/onsportxx596/mbc358879/3177.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE", LIVE 20
-http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/1158.m3u8
+http://1.mhpro1.xyz:80/live/onsportxx596/mbc358879/3178.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE", LIVE 21
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1163985.ts
@@ -429,17 +429,32 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #EXTINF:-1 tvg-id="LIVE 3" tvg-name="LIVE 3" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 3
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 2" tvg-logo="[https://iili.io/fSAHoVs.png](https://iili.io/fSAHoVs.png)" group-title="UEFA CHAMPIONS LEAGUE",LIVE 4
-http://otv8k.cc:80/live/3845698542/3017492651/508344.m3u8
+#EXTINF:-1 tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 3" tvg-logo="[https://iili.io/fSAHoVs.png](https://iili.io/fSAHoVs.png)" group-title="UEFA CHAMPIONS LEAGUE",LIVE 5
-http://otv8k.cc:80/live/3845698542/3017492651/508309.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 3" tvg-name="LIVE 5" tvg-logo="[https://iili.io/fSAHoVs.png](https://iili.io/fSAHoVs.png)" group-title="UEFA CHAMPIONS LEAGUE",LIVE 6
-http://starshare.st/live/3033516711/837973984/148158.ts
+#EXTINF:-1 tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
+https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 4" tvg-name="LIVE 6" tvg-logo="[https://iili.io/fSAHoVs.png](https://iili.io/fSAHoVs.png)" group-title="UEFA CHAMPIONS LEAGUE",LIVE 7
-http://starshare.st/live/3033516711/837973984/148159.ts
+
+#EXTINF:-1 tvg-id="LIVE 3" tvg-name="LIVE 3" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="LIVE 4" tvg-name="LIVE 4" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 
 #EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 8
@@ -2089,6 +2104,7 @@ https://vidd.semar.my.id/cobaduarr.mpd?id=9183&type=dash
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SPORT PREMIUM",Champions Golf 2 ⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
 
 
 
