@@ -25,19 +25,24 @@ http://ricardo.my/play/live.php?mac=00:1a:79:80:9f:28&stream=828097&extension=ts
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 5" tvg-name="LIVE 5" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 5
-http://starshare.st:80/live/3033516711/837973984/148158.ts
+#http://starshare.st:80/live/3033516711/837973984/148158.ts
+http://ricardo.my/play/live.php?mac=00:1a:79:80:9f:28&stream=827982&extension=ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 6" tvg-name="LIVE 6" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 6
-http://starshare.st:80/live/3033516711/837973984/148159.ts
+#http://starshare.st:80/live/3033516711/837973984/148159.ts
+http://ricardo.my/play/live.php?mac=00:1a:79:80:9f:28&stream=827980&extension=ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 7" tvg-name="LIVE 7" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 7
-http://starshare.st:80/live/3033516711/837973984/148160.ts
+#http://starshare.st:80/live/3033516711/837973984/148160.ts
+http://ricardo.my/play/live.php?mac=00:1a:79:80:9f:28&stream=827979&extension=ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 8" tvg-name="LIVE 8" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 8
-http://starshare.st:80/live/3033516711/837973984/148161.ts
+#http://starshare.st:80/live/3033516711/837973984/148161.ts
+http://ricardo.my/play/live.php?mac=00:1a:79:80:9f:28&stream=827978&extension=ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 9" tvg-name="LIVE 9" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 9
-http://starshare.st:80/live/3033516711/837973984/148162.ts
+#http://starshare.st:80/live/3033516711/837973984/148162.ts
+http://ricardo.my/play/live.php?mac=00:1a:79:80:9f:28&stream=827977&extension=ts
 
 
 #EXTM3U
@@ -320,7 +325,11 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/lsdasbvglv/
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="SERIE A",LIVE 5
+http://ricardo.my/play/live.php?mac=00:1a:79:80:9f:28&stream=828096&extension=ts
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="SERIE A",LIVE 6
+http://ricardo.my/play/live.php?mac=00:1a:79:80:9f:28&stream=828095&extension=tS
 
 
 
@@ -2104,6 +2113,7 @@ https://vidd.semar.my.id/cobaduarr.mpd?id=9183&type=dash
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SPORT PREMIUM",Champions Golf 2 ⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
 
 
 
