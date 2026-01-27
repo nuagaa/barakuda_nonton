@@ -41,26 +41,21 @@ http://165.22.248.83:8080/live/live8
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 9
 http://165.22.248.83:8080/live/live9
 
+#EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 10
+http://165.22.248.83:8080/live/live10
 
+#EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 11
+http://165.22.248.83:8080/live/live11
 
-#EXTM3U
+#EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 12
+http://165.22.248.83:8080/live/live12
 
-#EXTM3U
+#EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 13
+http://165.22.248.83:8080/live/live13
 
-#EXTINF:-1 tvg-id="LIVE 10" tvg-name="LIVE 10" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 10
-http://xtv.ooo:8080/live/Faisalfb007/4328641/223056.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 14
+http://165.22.248.83:8080/live/live14
 
-#EXTINF:-1 tvg-id="LIVE 11" tvg-name="LIVE 11" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 11
-http://xtv.ooo:8080/live/Faisalfb007/4328641/223057.m3u8
-
-#EXTINF:-1 tvg-id="LIVE 12" tvg-name="LIVE 12" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 12
-http://xtv.ooo:8080/live/Faisalfb007/4328641/223058.m3u8
-
-#EXTINF:-1 tvg-id="LIVE 13" tvg-name="LIVE 13" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 13
-http://xtv.ooo:8080/live/Faisalfb007/4328641/223059.m3u8
-
-#EXTINF:-1 tvg-id="LIVE 14" tvg-name="LIVE 14" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 14
-http://xtv.ooo:8080/live/Faisalfb007/4328641/223060.m3u8
 
 
 
@@ -2114,6 +2109,7 @@ https://vidd.semar.my.id/cobaduarr.mpd?id=9183&type=dash
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SPORT PREMIUM",Champions Golf 2 ⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
 
 
 
