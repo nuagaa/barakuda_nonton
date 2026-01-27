@@ -319,13 +319,15 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/lsdasbvglv/
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="SERIE A",LIVE 5
-http://ricardo.my/play/live.php?mac=00:1a:79:80:9f:28&stream=828096&extension=ts
+http://165.22.248.83:8080/live/live25
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="SERIE A",LIVE 6
-http://ricardo.my/play/live.php?mac=00:1a:79:80:9f:28&stream=828095&extension=ts
+http://165.22.248.83:8080/live/live26
+
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="SERIE A",LIVE 7
-http://vipgerretger.top:8080/VIP012661735133373287/6804a17c50b9/34531
+http://165.22.248.83:8080/live/live27
+
 
 
 
