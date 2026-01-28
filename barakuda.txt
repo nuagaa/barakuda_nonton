@@ -483,7 +483,7 @@ https://nissa17.adptv.workers.dev/manifest.mpd?id=9182&type=dash
 https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-01-ARB.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 3" tvg-name="LIVE 3" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 11
-https://raw.githubusercontent.com/nuagaa/barakuda_nonton/refs/heads/main/BEINSPORT-02-ARB.m3u8
+http://xxtv.me:8080/6675443218889/X56jDXzgEiStYZ/318199
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE", LIVE 12
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2113,6 +2113,7 @@ https://vidd.semar.my.id/cobaduarr.mpd?id=9183&type=dash
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SPORT PREMIUM",Champions Golf 2 ⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
 
 
 
