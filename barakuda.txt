@@ -31,31 +31,31 @@ http://iptv.birdmox.my.id:8080/live/live32
 http://iptv.birdmox.my.id/live/live5
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 6
-http://iptv.birdmox.my.id:8080/live/live6
+http://iptv.birdmox.my.id/live/live6
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 7
-http://iptv.birdmox.my.id:8080/live/live7
+http://iptv.birdmox.my.id/live/live7
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 8
-http://iptv.birdmox.my.id:8080/live/live8
+http://iptv.birdmox.my.id/live/live8
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 9
-http://iptv.birdmox.my.id:8080/live/live9
+http://iptv.birdmox.my.id/live/live9
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 10
-http://iptv.birdmox.my.id:8080/live/live10
+http://iptv.birdmox.my.id/live/live10
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 11
-http://iptv.birdmox.my.id:8080/live/live11
+http://iptv.birdmox.my.id/live/live11
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 12
-http://iptv.birdmox.my.id:8080/live/live12
+http://iptv.birdmox.my.id/live/live12
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 13
-http://iptv.birdmox.my.id:8080/live/live13
+http://iptv.birdmox.my.id/live/live13
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 14
-http://iptv.birdmox.my.id:8080/live/live14
+http://iptv.birdmox.my.id/live/live14
 
 
 
@@ -79,11 +79,11 @@ http://1.mhpro1.xyz:80/live/onsportxx596/mbc358879/3177.m3u8
 http://1.mhpro1.xyz:80/live/onsportxx596/mbc358879/3178.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE", LIVE 21
-http://iptv.birdmox.my.id:8080/live/live21
+http://iptv.birdmox.my.id/live/live21
 
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE", LIVE 22
-http://iptv.birdmox.my.id:8080/live/live22
+http://iptv.birdmox.my.id/live/live22
 
 
 
@@ -534,7 +534,7 @@ https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3
 https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 19
-http://iptv.birdmox.my.id:8080/live/live37
+http://iptv.birdmox.my.id/live/live37
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 20
 http://forevertv.me:8080/live/mac_705165/3d5d350e34/312504.ts
@@ -549,10 +549,10 @@ http://ricardo.my/play/live.php?mac=00:1a:79:80:9f:28&stream=958684&extension=ts
 http://ricardo.my/play/live.php?mac=00:1a:79:80:9f:28&stream=1327956&extension=ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 24
-http://iptv.birdmox.my.id:8080/live/live31
+http://iptv.birdmox.my.id/live/live31
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 25
-http://iptv.birdmox.my.id:8080/live/live37
+http://iptv.birdmox.my.id/live/live37
 
 
 
@@ -2150,6 +2150,7 @@ https://vidd.semar.my.id/cobaduarr.mpd?id=9183&type=dash
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SPORT PREMIUM",Champions Golf 2 ⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
 
 
 
