@@ -18,11 +18,11 @@ https://parlay12.serv00.net/pidio/index.mpd?id=9183&type=dash
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 3
-http://tv.muiscloud.my.id:8080/live/live31
+http://iptv.birdmox.my.id:8080/live/live31
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 3" tvg-name="LIVE 3" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 4
-http://tv.muiscloud.my.id:8080/live/live32
+http://iptv.birdmox.my.id:8080/live/live32
 
 
 #EXTM3U
@@ -31,31 +31,31 @@ http://tv.muiscloud.my.id:8080/live/live32
 http://iptv.birdmox.my.id/live/live5
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 6
-http://tv.muiscloud.my.id:8080/live/live6
+http://iptv.birdmox.my.id:8080/live/live6
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 7
-http://tv.muiscloud.my.id:8080/live/live7
+http://iptv.birdmox.my.id:8080/live/live7
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 8
-http://tv.muiscloud.my.id:8080/live/live8
+http://iptv.birdmox.my.id:8080/live/live8
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 9
-http://tv.muiscloud.my.id:8080/live/live9
+http://iptv.birdmox.my.id:8080/live/live9
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 10
-http://tv.muiscloud.my.id:8080/live/live10
+http://iptv.birdmox.my.id:8080/live/live10
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 11
-http://tv.muiscloud.my.id:8080/live/live11
+http://iptv.birdmox.my.id:8080/live/live11
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 12
-http://tv.muiscloud.my.id:8080/live/live12
+http://iptv.birdmox.my.id:8080/live/live12
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 13
-http://tv.muiscloud.my.id:8080/live/live13
+http://iptv.birdmox.my.id:8080/live/live13
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 14
-http://tv.muiscloud.my.id:8080/live/live14
+http://iptv.birdmox.my.id:8080/live/live14
 
 
 
@@ -79,11 +79,11 @@ http://1.mhpro1.xyz:80/live/onsportxx596/mbc358879/3177.m3u8
 http://1.mhpro1.xyz:80/live/onsportxx596/mbc358879/3178.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE", LIVE 21
-http://tv.muiscloud.my.id:8080/live/live21
+http://iptv.birdmox.my.id:8080/live/live21
 
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE", LIVE 22
-http://tv.muiscloud.my.id:8080/live/live22
+http://iptv.birdmox.my.id:8080/live/live22
 
 
 
@@ -320,14 +320,14 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/lsdasbvglv/
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="SERIE A",LIVE 5
-http://tv.muiscloud.my.id:8080/live/live25
+http://iptv.birdmox.my.id:8080/live/live25
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="SERIE A",LIVE 6
-http://tv.muiscloud.my.id:8080/live/live26
+http://iptv.birdmox.my.id:8080/live/live26
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="SERIE A",LIVE 7
-http://tv.muiscloud.my.id:8080/live/live27
+http://iptv.birdmox.my.id:8080/live/live27
 
 
 
@@ -549,7 +549,7 @@ http://ricardo.my/play/live.php?mac=00:1a:79:80:9f:28&stream=958684&extension=ts
 http://ricardo.my/play/live.php?mac=00:1a:79:80:9f:28&stream=1327956&extension=ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 24
-http://tv.muiscloud.my.id:8080/live/live31
+http://iptv.birdmox.my.id:8080/live/live31
 
 
 
@@ -2147,6 +2147,7 @@ https://vidd.semar.my.id/cobaduarr.mpd?id=9183&type=dash
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SPORT PREMIUM",Champions Golf 2 ⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
 
 
 
