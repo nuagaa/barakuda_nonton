@@ -28,34 +28,34 @@ http://iptv.birdmox.my.id:8080/live/live32
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 5
-http://iptv.birdmox.my.id/live/live5
+http://iptv.birdmox.my.id:8080/live/live5
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 6
-http://iptv.birdmox.my.id/live/live6
+http://iptv.birdmox.my.id:8080/live/live6
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 7
-http://iptv.birdmox.my.id/live/live7
+http://iptv.birdmox.my.id:8080/live/live7
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 8
-http://iptv.birdmox.my.id/live/live8
+http://iptv.birdmox.my.id:8080/live/live8
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 9
-http://iptv.birdmox.my.id/live/live9
+http://iptv.birdmox.my.id:8080/live/live9
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 10
-http://iptv.birdmox.my.id/live/live10
+http://iptv.birdmox.my.id:8080/live/live10
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 11
-http://iptv.birdmox.my.id/live/live11
+http://iptv.birdmox.my.id:8080/live/live11
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 12
-http://iptv.birdmox.my.id/live/live12
+http://iptv.birdmox.my.id:8080/live/live12
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 13
-http://iptv.birdmox.my.id/live/live13
+http://iptv.birdmox.my.id:8080/live/live13
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 14
-http://iptv.birdmox.my.id/live/live14
+http://iptv.birdmox.my.id:8080/live/live14
 
 
 
@@ -2150,6 +2150,7 @@ https://vidd.semar.my.id/cobaduarr.mpd?id=9183&type=dash
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SPORT PREMIUM",Champions Golf 2 ⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
 
 
 
