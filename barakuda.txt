@@ -57,7 +57,7 @@ http://nonton.birdmox.my.id:8080/live/live11.ts
 
 
 #EXTINF:-1 tvg-id="LIVE 14" tvg-name="LIVE 14" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 14
-http://xtv.ooo:8080/live/Faisalfb007/4328641/223060.m3u8
+http://nonton.birdmox.my.id:8080/live/sawa1.m3u8
 
 
 
@@ -118,10 +118,10 @@ https://nissa17.adptv.workers.dev/manifest.mpd?id=6786&type=dash
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 23
-http://starshare.st/live/3033516711/837973984/652310.ts
+http://nonton.birdmox.my.id:8080/live/sawa1.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 24
-http://starshare.st/live/3033516711/837973984/652311.ts
+http://nonton.birdmox.my.id:8080/live/sawa2.m3u8
 
 #EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 25 off
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2116,6 +2116,7 @@ https://vidd.semar.my.id/cobaduarr.mpd?id=9183&type=dash
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SPORT PREMIUM",Champions Golf 2 ⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
 
 
 
