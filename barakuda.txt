@@ -31,13 +31,13 @@ http://nova4k.xyz:80/live/334740973265/689bac4517f41/928871.m3u8
 http://nova4k.xyz:80/live/334740973265/689bac4517f41/903420.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 7" tvg-name="LIVE 7" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 7
-http://nonton.birdmox.my.id:8080/live/live7.ts
+http://nonton.birdmox.my.id:8080/live/hottest1.ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 8" tvg-name="LIVE 8" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 8
-http://nonton.birdmox.my.id:8080/live/live8.ts
+http://nonton.birdmox.my.id:8080/live/hottest2.ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 9" tvg-name="LIVE 9" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 9
-http://nonton.birdmox.my.id:8080/live/live9.ts
+http://nonton.birdmox.my.id:8080/live/hottest3.ts
 
 #EXTM3U
 
@@ -2116,6 +2116,7 @@ https://vidd.semar.my.id/cobaduarr.mpd?id=9183&type=dash
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SPORT PREMIUM",Champions Golf 2 ⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
 
 
 
