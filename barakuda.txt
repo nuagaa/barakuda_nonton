@@ -18,11 +18,9 @@ https://parlay12.serv00.net/pidio/index.mpd?id=9183&type=dash
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 3
-http://xxtv.me:8080/6675443218889/X56jDXzgEiStYZ/319495
-
+http://ricardo.my/play/live.php?mac=00:1a:79:80:9f:28&stream=828098&extension=ts
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 3" tvg-name="LIVE 3" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 4
-http://xxtv.me:8080/6675443218889/X56jDXzgEiStYZ/319496
-
+http://ricardo.my/play/live.php?mac=00:1a:79:80:9f:28&stream=828097&extension=ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 5" tvg-name="LIVE 5" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 5
 http://nova4k.xyz:80/live/334740973265/689bac4517f41/928871.m3u8
@@ -31,8 +29,7 @@ http://nova4k.xyz:80/live/334740973265/689bac4517f41/928871.m3u8
 http://nova4k.xyz:80/live/334740973265/689bac4517f41/903420.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 7" tvg-name="LIVE 7" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 7
-http://nonton.birdmox.my.id:8080/live/hottest1.ts
-
+http://ricardo.my/play/live.php?mac=00:1a:79:80:9f:28&stream=828096&extension=ts
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 8" tvg-name="LIVE 8" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 8
 http://nonton.birdmox.my.id:8080/live/hottest2.ts
 
@@ -2103,6 +2100,7 @@ https://vidd.semar.my.id/cobaduarr.mpd?id=9183&type=dash
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SPORT PREMIUM",Champions Golf 2 ⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
 
 
 
