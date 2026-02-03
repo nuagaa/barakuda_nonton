@@ -1349,7 +1349,7 @@ http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:9C:BF:9E&stream=1928001&exte
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="COPA DEL REY",LIVE 11
 http://triala.xyz/live/699097766/21121334555/519369.ts
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="COPA DEL REY",LIVE 12
-http://nonton.birdmox.my.id:8080/live/copadelrey5.ts
+http://troublesupport.my.to/play/live.php?mac=00:1a:79:79:9a:11&stream=1912896&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="COPA DEL REY",LIVE 13
 http://nonton.birdmox.my.id:8080/live/copadelrey6.ts
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="COPA DEL REY",LIVE 14
@@ -2105,6 +2105,7 @@ https://vidd.semar.my.id/cobaduarr.mpd?id=9183&type=dash
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SPORT PREMIUM",Champions Golf 2 ⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
 
 
 
