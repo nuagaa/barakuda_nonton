@@ -1338,6 +1338,20 @@ http://vipambataousam.top:8080/VIP013201751290218503/adb698998b73/97140
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="COPA DEL REY",LIVE 7
 http://vipambataousam.top:8080/VIP013201751290218503/adb698998b73/97141
 
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="COPA DEL REY",LIVE 8
+http://nonton.birdmox.my.id:8080/live/copadelrey1.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="COPA DEL REY",LIVE 9
+http://nonton.birdmox.my.id:8080/live/copadelrey2.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="COPA DEL REY",LIVE 10
+http://nonton.birdmox.my.id:8080/live/copadelrey3.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="COPA DEL REY",LIVE 11
+http://nonton.birdmox.my.id:8080/live/copadelrey4.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="COPA DEL REY",LIVE 12
+http://nonton.birdmox.my.id:8080/live/copadelrey5.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="COPA DEL REY",LIVE 13
+http://nonton.birdmox.my.id:8080/live/copadelrey6.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="COPA DEL REY",LIVE 14
+http://nonton.birdmox.my.id:8080/live/copadelrey7.ts
 
 
 
@@ -2089,6 +2103,7 @@ https://vidd.semar.my.id/cobaduarr.mpd?id=9183&type=dash
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SPORT PREMIUM",Champions Golf 2 ⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
 
 
 
