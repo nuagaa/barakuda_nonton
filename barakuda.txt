@@ -86,10 +86,11 @@ http://nonton.birdmox.my.id:8080/live/triala5.ts
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 23
-http://nonton.birdmox.my.id:8080/live/sawa1.m3u8
+https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSS1.m3u8
+#http://nonton.birdmox.my.id:8080/live/sawa1.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 24
-https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSS1.m3u8
+https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSS2.m3u8
 #http://nonton.birdmox.my.id:8080/live/sawa2.m3u8
 
 
@@ -2106,6 +2107,7 @@ https://vidd.semar.my.id/cobaduarr.mpd?id=9183&type=dash
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SPORT PREMIUM",Champions Golf 2 ⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
 
 
 
