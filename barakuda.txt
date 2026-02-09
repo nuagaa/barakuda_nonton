@@ -68,21 +68,21 @@ http://vipgerretger.top:8080/VIP012661735133373287/6804a17c50b9/34534
 http://vipgerretger.top:8080/VIP012661735133373287/6804a17c50b9/34533
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 18" tvg-name="LIVE 18" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 18
-http://nonton.birdmox.my.id:8080/live/triala1.ts
+http://hottest.vip/play/live.php?mac=00:1a:79:55:7a:00&stream=1032529&extension=ts
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE", LIVE 19
-http://nonton.birdmox.my.id:8080/live/triala2.ts
+http://hottest.vip/play/live.php?mac=00:1a:79:55:7a:00&stream=1032528&extension=ts
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE", LIVE 20
-http://nonton.birdmox.my.id:8080/live/triala3.ts
+http://hottest.vip/play/live.php?mac=00:1a:79:55:7a:00&stream=1032527&extension=ts
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE", LIVE 21
-http://nonton.birdmox.my.id:8080/live/triala4.ts
+http://hottest.vip/play/live.php?mac=00:1a:79:55:7a:00&stream=1032526&extension=ts
 
 
 
 #EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE", LIVE 22
-http://nonton.birdmox.my.id:8080/live/triala5.ts
+http://hottest.vip/play/live.php?mac=00:1a:79:55:7a:00&stream=1032525&extension=ts
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 23
@@ -2115,6 +2115,7 @@ https://vidd.semar.my.id/cobaduarr.mpd?id=9183&type=dash
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SPORT PREMIUM",Champions Golf 2 ⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
 
 
 
