@@ -1353,7 +1353,8 @@ http://vpn.truestream-hub.com:80/play/live.php?mac=00:1A:79:C4:F9:79&stream=8804
 ##http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/929633.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="COPA DEL REY",LIVE 5
-http://skunkytv.live/play/live.php?mac=00:1A:79:C7:30:A5&stream=812989&extension=ts
+http://boski.streamtv.to:8080/live/8gULQeqH3I/kbuahRdUJV/94850.m3u8
+#http://skunkytv.live/play/live.php?mac=00:1A:79:C7:30:A5&stream=812989&extension=ts
 ##http://vipambataousam.top:8080/VIP013201751290218503/adb698998b73/97139
 
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="COPA DEL REY",LIVE 6
@@ -2127,6 +2128,7 @@ https://vidd.semar.my.id/cobaduarr.mpd?id=9183&type=dash
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SPORT PREMIUM",Champions Golf 2 ⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
 
 
 
