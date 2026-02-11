@@ -29,9 +29,11 @@ https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSS3.
 https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSS4.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 7" tvg-name="LIVE 7" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 7
-http://suiptv265.xyz/play/live.php?mac=00:1A:79:B4:47:2A&stream=828098&extension=ts
+http://hottest.vip:80/play/live.php?mac=00:1A:79:29:52:94&stream=1032487&extension=ts
+#http://suiptv265.xyz/play/live.php?mac=00:1A:79:B4:47:2A&stream=828098&extension=ts
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 8" tvg-name="LIVE 8" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 8
-http://suiptv265.xyz/play/live.php?mac=00:1A:79:B4:47:2A&stream=828097&extension=ts
+http://hottest.vip:80/play/live.php?mac=00:1A:79:29:52:94&stream=79473&extension=ts&play_token=61Nlgsqg4B
+#http://suiptv265.xyz/play/live.php?mac=00:1A:79:B4:47:2A&stream=828097&extension=ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 9" tvg-name="LIVE 9" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 9
 http://suiptv265.xyz/play/live.php?mac=00:1A:79:B4:47:2A&stream=828096&extension=ts
@@ -2130,6 +2132,7 @@ https://vidd.semar.my.id/cobaduarr.mpd?id=9183&type=dash
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SPORT PREMIUM",Champions Golf 2 ⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
 
 
 
