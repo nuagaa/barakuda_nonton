@@ -2,28 +2,20 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=9182&type=drm
-https://parlay12.serv00.net/pidio/index.mpd?id=9182&type=dash
-
-
-#EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=9183&type=drm
-https://parlay12.serv00.net/pidio/index.mpd?id=9183&type=dash
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 1
+http://hottest.vip:80/play/live.php?mac=00:1A:79:58:4F:23&stream=1032487&extension=ts
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 3" tvg-name="LIVE 3" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 2
+http://hottest.vip:80/play/live.php?mac=00:1A:79:58:4F:23&stream=1032486&extension=ts
 
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 3
-https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSS1.m3u8
+http://hottest.vip:80/play/live.php?mac=00:1A:79:58:4F:23&stream=1032485&extension=ts
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 3" tvg-name="LIVE 3" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 4
-https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSS2.m3u8
+http://hottest.vip:80/play/live.php?mac=00:1A:79:58:4F:23&stream=1032484&extension=ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 5" tvg-name="LIVE 5" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 5
-https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSS3.m3u8
+http://hottest.vip:80/play/live.php?mac=00:1A:79:58:4F:23&stream=1032483&extension=ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 6" tvg-name="LIVE 6" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 6
 https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSS4.m3u8
@@ -129,6 +121,19 @@ http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/1320.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 32
 http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/1319.m3u8
 #http://hottest.vip/play/live.php?mac=00:1a:79:82:73:5F&stream=1032522&extension=ts
+
+#EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 33
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=9182&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=9182&type=dash
+
+
+#EXTINF:-1 tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 34
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.mpd?id=9183&type=drm
+https://parlay12.serv00.net/pidio/index.mpd?id=9183&type=dash
 
 
 
@@ -2133,6 +2138,7 @@ https://vidd.semar.my.id/cobaduarr.mpd?id=9183&type=dash
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SPORT PREMIUM",Champions Golf 2 ⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
 
 
 
