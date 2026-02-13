@@ -35,12 +35,12 @@ http://hottest.vip:80/play/live.php?mac=00:1A:79:29:52:94&stream=1032485&extensi
 #EXTM3U
 
 #EXTINF:-1 tvg-id="LIVE 10" tvg-name="LIVE 10" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 10
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:BF:BC:1A&stream=827940&extension=ts
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:7A:4C:B5&stream=827940&extension=ts
 #http://vpn.truestream-hub.com:80/play/live.php?mac=00:1A:79:7C:A1:FB&stream=1032529&extension=ts
 #http://nonton.birdmox.my.id:8080/live/eagle1.ts
 
 #EXTINF:-1 tvg-id="LIVE 11" tvg-name="LIVE 11" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 11
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:BF:BC:1A&stream=827939&extension=ts
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:7A:4C:B5&stream=827939&extension=ts
 #http://vpn.truestream-hub.com:80/play/live.php?mac=00:1A:79:7C:A1:FB&stream=1032528&extension=ts
 #http://nonton.birdmox.my.id:8080/live/eagle2.ts
 
@@ -50,25 +50,26 @@ http://skunkytv.live:80/play/live.php?mac=00:1A:79:BF:BC:1A&stream=827938&extens
 #http://nonton.birdmox.my.id:8080/live/live10.ts
 
 #EXTINF:-1 tvg-id="LIVE 13" tvg-name="LIVE 13" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 13
-
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:7A:4C:B5&stream=827938&extension=ts
 #http://vpn.truestream-hub.com:80/play/live.php?mac=00:1A:79:7C:A1:FB&stream=1032526&extension=ts
 #http://nonton.birdmox.my.id:8080/live/live11.ts
 
 
 #EXTINF:-1 tvg-id="LIVE 14" tvg-name="LIVE 14" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 14
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:BF:BC:1A&stream=827937&extension=ts
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:7A:4C:B5&stream=827937&extension=ts
 #http://vpn.truestream-hub.com:80/play/live.php?mac=00:1A:79:7C:A1:FB&stream=1032525&extension=ts
 #http://nonton.birdmox.my.id:8080/live/sawa1.m3u8
 
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 15" tvg-name="LIVE 15" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 15
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:BF:BC:1A&stream=827936&extension=ts
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:7A:4C:B5&stream=827936&extension=ts
 #http://vpn.truestream-hub.com/play/live.php?mac=00:1A:79:48:BD:DE&stream=918986&extension=ts
 #http://vipgerretger.top:8080/VIP012661735133373287/6804a17c50b9/34535
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 16" tvg-name="LIVE 16" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 16
-http://vpn.truestream-hub.com/play/live.php?mac=00:1A:79:48:BD:DE&stream=918985&extension=ts
+http://skunkytv.live:80/play/live.php?mac=00:1A:79:7A:4C:B5&stream=827935&extension=ts
+#http://vpn.truestream-hub.com/play/live.php?mac=00:1A:79:48:BD:DE&stream=918985&extension=ts
 #http://vipgerretger.top:8080/VIP012661735133373287/6804a17c50b9/34534
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 17" tvg-name="LIVE 17" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 17
@@ -2147,6 +2148,7 @@ https://vidd.semar.my.id/cobaduarr.mpd?id=9183&type=dash
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SPORT PREMIUM",Champions Golf 2 ⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
 
 
 
