@@ -273,6 +273,8 @@ http://vpn.truestream-hub.com:80/play/live.php?mac=00:1A:79:BD:C5:E2&stream=1348
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="LA LIGA",LIVE 17
 http://vpn.truestream-hub.com:80/play/live.php?mac=00:1A:79:B0:92:BE&stream=1348102&extension=ts
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="LA LIGA",LIVE 18
+http://hottest.vip:80/play/live.php?mac=00:1A:79:B5:CD:69&stream=1348103&extension=ts
 
 
 
@@ -2103,6 +2105,7 @@ https://vidd.semar.my.id/cobaduarr.mpd?id=9183&type=dash
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SPORT PREMIUM",Champions Golf 2 ⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
 
 
 
