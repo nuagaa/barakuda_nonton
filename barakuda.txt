@@ -3,8 +3,7 @@
 #EXTM3U
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 1
-http://nossacasa55.ddns.net:8080/live/LYU5H5D3Ik/nZYfUb9upB/112231.m3u8
-#http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:E9:3E:BE&stream=1903770&extension=m3u8
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:7D:C2:32&stream=1032529&extension=ts
 #http://hottest.vip:80/play/live.php?mac=00:1A:79:0D:A0:3F&stream=1032529&extension=ts
 #http://hottest.vip:80/play/live.php?mac=00:1A:79:0D:A0:3F&stream=1903770&extension=ts
 
@@ -13,15 +12,14 @@ http://filex.me:8080/live/MAS101A/MAS101AABB/495231.m3u8
 #http://skunkytv.live:80/play/live.php?mac=00:1A:79:BF:BC:1A&stream=827981&extension=ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 3
-http://filex.me:8080/live/MAS101A/MAS101AABB/495232.m3u8
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:46:69:5D&stream=1032527&extension=ts
 #http://skunkytv.live:80/play/live.php?mac=00:1A:79:7A:4C:B5&stream=827979&extension=ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 3" tvg-name="LIVE 3" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 4
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:D5:D1:5C&stream=827978&extension=ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 5" tvg-name="LIVE 5" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 5
-http://filex.me:8080/live/MAS101A/MAS101AABB/495233.m3u8
-#http://hottest.vip:80/play/live.php?mac=00:1A:79:85:DB:C4&stream=1032525&extension=ts
+http://hottest.vip:80/play/live.php?mac=00:1A:79:85:DB:C4&stream=1032525&extension=ts
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 6" tvg-name="LIVE 6" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 6
 http://hottest.vip:80/play/live.php?mac=00:1A:79:58:26:56&stream=1032524&extension=ts
 
@@ -2111,6 +2109,7 @@ https://vidd.semar.my.id/cobaduarr.mpd?id=9183&type=dash
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SPORT PREMIUM",Champions Golf 2 ⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
 
 
 
