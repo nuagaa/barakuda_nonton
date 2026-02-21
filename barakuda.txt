@@ -133,7 +133,7 @@ https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/AstroSS4.
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 37
 http://hottest.vip:80/play/live.php?mac=00:1A:79:0D:A0:3F&stream=1032487&extension=ts&play_token=6jfat5abaQ
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="PREMIER LEAGUE",LIVE 36
-http://hottest.vip:80/play/live.php?mac=00:1A:79:0D:A0:3F&stream=1032486&extension=ts&play_token=fHbuJpJZjK
+https://raw.githubusercontent.com/wandering-oldman/server2/refs/heads/main/app24-hub-premier-1.m3u8
 
 
 
@@ -2111,6 +2111,7 @@ https://vidd.semar.my.id/cobaduarr.mpd?id=9183&type=dash
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SPORT PREMIUM",Champions Golf 2 ⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
 
 
 
