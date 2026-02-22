@@ -173,29 +173,21 @@ http://tv.birdmox.my.id/laliga-ch3
 ==================SERIE A=====================
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 1" tvg-name="LIVE 1" tvg-logo="https://iili.io/fSAHoVs.png" group-title="SERIE A",LIVE 1
-http://hottest.vip:80/play/live.php?mac=00:1A:79:85:DB:C4&stream=1293199&extension=ts
-
+http://tv.birdmox.my.id/ligaitalia-ch1
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="SERIE A",LIVE 2
-http://hottest.vip:80/play/live.php?mac=00:1A:79:85:DB:C4&stream=1348093&extension=ts
-
+http://tv.birdmox.my.id/ligaitalia-ch2
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 3" tvg-name="LIVE 3" tvg-logo="https://iili.io/fSAHoVs.png" group-title="SERIE A",LIVE 3
-http://hottest.vip:80/play/live.php?mac=00:1A:79:85:DB:C4&stream=1348102&extension=ts
-
+http://tv.birdmox.my.id/ligaitalia-ch3
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 4" tvg-name="LIVE 4" tvg-logo="https://iili.io/fSAHoVs.png" group-title="SERIE A",LIVE 4
-http://hottest.vip:80/play/live.php?mac=00:1A:79:85:DB:C4&stream=1348103&extension=ts
-
+http://tv.birdmox.my.id/ligaitalia-ch4
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 5" tvg-name="LIVE 5" tvg-logo="https://iili.io/fSAHoVs.png" group-title="SERIE A",LIVE 5
-http://hottest.vip:80/play/live.php?mac=00:1A:79:85:DB:C4&stream=30567&extension=ts
-
+http://tv.birdmox.my.id/ligaitalia-ch5
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 6" tvg-name="LIVE 6" tvg-logo="https://iili.io/fSAHoVs.png" group-title="SERIE A",LIVE 6
-http://hottest.vip:80/play/live.php?mac=00:1A:79:85:DB:C4&stream=30566&extension=ts
-
+http://tv.birdmox.my.id/ligaitalia-ch6
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 7" tvg-name="LIVE 7" tvg-logo="https://iili.io/fSAHoVs.png" group-title="SERIE A",LIVE 7
-http://hottest.vip:80/play/live.php?mac=00:1A:79:85:DB:C4&stream=30565&extension=ts
-
+http://tv.birdmox.my.id/ligaitalia-ch7
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 8" tvg-name="LIVE 8" tvg-logo="https://iili.io/fSAHoVs.png" group-title="SERIE A",LIVE 8
-http://hottest.vip:80/play/live.php?mac=00:1A:79:85:DB:C4&stream=1019935&extension=ts
-
+http://tv.birdmox.my.id/ligaitalia-ch8
 
 
 
@@ -1986,6 +1978,7 @@ https://vidd.semar.my.id/cobaduarr.mpd?id=9183&type=dash
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SPORT PREMIUM",Champions Golf 2 ⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
 
 
 
