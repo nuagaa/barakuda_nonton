@@ -312,45 +312,32 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 6
-http://vpn.truestream-hub.com:80/play/live.php?mac=00:1A:79:70:44:D5&stream=1917240&extension=ts
-
+http://tv.birdmox.my.id/ucl-ch1
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 7
-http://vpn.truestream-hub.com:80/play/live.php?mac=00:1A:79:70:44:D5&stream=1917239&extension=ts
-
+http://tv.birdmox.my.id/ucl-ch2
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 8
-http://vpn.truestream-hub.com:80/play/live.php?mac=00:1A:79:70:44:D5&stream=1917238&extension=ts
-
+http://tv.birdmox.my.id/ucl-ch3
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 9
-http://vpn.truestream-hub.com:80/play/live.php?mac=00:1A:79:70:44:D5&stream=1917237&extension=ts
-
+http://tv.birdmox.my.id/ucl-ch4
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 10
-http://vpn.truestream-hub.com:80/play/live.php?mac=00:1A:79:70:44:D5&stream=1917351&extension=ts
-
+http://tv.birdmox.my.id/ucl-ch5
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 11
-http://vpn.truestream-hub.com:80/play/live.php?mac=00:1A:79:70:44:D5&stream=1917350&extension=ts
-
+http://tv.birdmox.my.id/ucl-ch6
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 12
-http://vpn.truestream-hub.com:80/play/live.php?mac=00:1A:79:70:44:D5&stream=1917349&extension=ts
-
+http://tv.birdmox.my.id/ucl-ch7
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 13
-http://vpn.truestream-hub.com:80/play/live.php?mac=00:1A:79:70:44:D5&stream=1917348&extension=ts
-
+http://tv.birdmox.my.id/ucl-ch8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 14
-http://vpn.truestream-hub.com:80/play/live.php?mac=00:1A:79:70:44:D5&stream=1917347&extension=ts
-
+http://tv.birdmox.my.id/ucl-ch9
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 15
-http://vpn.truestream-hub.com:80/play/live.php?mac=00:1A:79:70:44:D5&stream=1917346&extension=ts
-
+http://tv.birdmox.my.id/ucl-ch10
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 16
-http://vpn.truestream-hub.com:80/play/live.php?mac=00:1A:79:70:44:D5&stream=1917345&extension=ts
-
+http://tv.birdmox.my.id/ucl-ch11
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 17
-http://vpn.truestream-hub.com:80/play/live.php?mac=00:1A:79:70:44:D5&stream=1917344&extension=ts
-
+http://tv.birdmox.my.id/ucl-ch12
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LIVE 2" tvg-name="LIVE 2" tvg-logo="https://iili.io/fSAHoVs.png" group-title="UEFA CHAMPIONS LEAGUE",LIVE 18
-http://vpn.truestream-hub.com:80/play/live.php?mac=00:1A:79:70:44:D5&stream=1917343&extension=ts
-
+http://tv.birdmox.my.id/ucl-ch3
 
 
 
@@ -1978,6 +1965,7 @@ https://vidd.semar.my.id/cobaduarr.mpd?id=9183&type=dash
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SPORT PREMIUM",Champions Golf 2 ⭐⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
 
 
 
